@@ -14,3 +14,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-14` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T15:51:41+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
