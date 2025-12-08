@@ -14,3 +14,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-25` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T21:00:48+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
