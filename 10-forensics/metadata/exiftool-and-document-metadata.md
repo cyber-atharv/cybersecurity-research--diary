@@ -14,3 +14,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-17` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T17:20:32+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
