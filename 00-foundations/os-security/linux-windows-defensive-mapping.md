@@ -14,3 +14,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-05` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T11:50:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
