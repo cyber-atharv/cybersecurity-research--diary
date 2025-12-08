@@ -14,3 +14,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-09` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T13:40:16+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
