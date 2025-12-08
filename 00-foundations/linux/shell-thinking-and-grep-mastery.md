@@ -14,3 +14,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-02` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T10:34:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
