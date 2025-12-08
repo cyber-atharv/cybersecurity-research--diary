@@ -14,3 +14,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-10` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T14:14:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
