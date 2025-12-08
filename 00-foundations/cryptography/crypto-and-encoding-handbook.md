@@ -14,3 +14,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-06` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T12:24:25+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
