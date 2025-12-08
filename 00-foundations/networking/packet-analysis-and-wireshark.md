@@ -14,3 +14,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-03` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T10:55:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
