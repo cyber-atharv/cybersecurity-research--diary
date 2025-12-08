@@ -16,3 +16,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 | `stage-01` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2025-12-08T21:21:05+05:30 | Stream Filtering & PCRE Flag Optimization -->
