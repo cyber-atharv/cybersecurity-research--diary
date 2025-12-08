@@ -14,3 +14,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-13` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T15:30:24+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
