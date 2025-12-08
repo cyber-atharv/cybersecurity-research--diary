@@ -14,3 +14,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-04` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T11:29:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
