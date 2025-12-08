@@ -14,3 +14,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-22` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T19:31:57+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
