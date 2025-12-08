@@ -14,3 +14,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-08` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T13:19:59+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
