@@ -14,3 +14,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-07` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T12:45:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
