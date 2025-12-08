@@ -14,3 +14,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-21` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T19:10:40+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
