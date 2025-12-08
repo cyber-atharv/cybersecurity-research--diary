@@ -14,3 +14,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-11` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T14:35:50+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
