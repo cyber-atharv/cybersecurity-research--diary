@@ -14,3 +14,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 | Attack Primitive | Telemetry Generated | Log Source | Mitigation |
 |---|---|---|---|
 | `stage-23` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
+
+<!-- Node: 2025-12-08T20:05:14+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
