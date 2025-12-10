@@ -16,3 +16,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 | `stage-05` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T11:50:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2025-12-10T11:14:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
