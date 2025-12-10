@@ -16,3 +16,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 | `stage-07` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T12:45:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2025-12-10T11:59:25+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
