@@ -16,3 +16,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 | `stage-14` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T15:51:41+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2025-12-10T14:30:24+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
