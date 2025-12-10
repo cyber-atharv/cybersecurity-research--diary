@@ -16,3 +16,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 | `stage-02` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T10:34:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2025-12-10T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
