@@ -16,3 +16,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 | `stage-19` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T18:15:06+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2025-12-10T16:16:49+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
