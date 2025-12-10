@@ -16,3 +16,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 | `stage-25` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T21:00:48+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2025-12-10T18:31:31+05:30 | Stream Filtering & PCRE Flag Optimization -->
