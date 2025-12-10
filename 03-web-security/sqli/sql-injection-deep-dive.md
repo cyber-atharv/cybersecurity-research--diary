@@ -16,3 +16,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 | `stage-10` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T14:14:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2025-12-10T13:00:16+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
