@@ -18,3 +18,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2025-12-08T12:24:25+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2025-12-10T11:30:08+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2025-12-10T20:46:13+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
