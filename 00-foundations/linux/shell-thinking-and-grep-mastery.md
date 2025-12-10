@@ -18,3 +18,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2025-12-08T10:34:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2025-12-10T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2025-12-10T19:16:05+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
