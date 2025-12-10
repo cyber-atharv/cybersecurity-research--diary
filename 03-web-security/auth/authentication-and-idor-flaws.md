@@ -16,3 +16,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 | `stage-11` | State violation / abnormal syscall | Auditd / Sysmon EID 1 | Parameterized APIs & capability boundaries |
 
 <!-- Node: 2025-12-08T14:35:50+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2025-12-10T13:29:33+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
