@@ -18,3 +18,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2025-12-08T14:14:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2025-12-10T13:00:16+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2025-12-11T11:27:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
