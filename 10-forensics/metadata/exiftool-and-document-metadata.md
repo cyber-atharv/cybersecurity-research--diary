@@ -18,3 +18,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2025-12-08T17:20:32+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2025-12-10T15:31:15+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2025-12-11T20:44:16+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
