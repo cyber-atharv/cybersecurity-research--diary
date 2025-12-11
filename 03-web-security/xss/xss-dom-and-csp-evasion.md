@@ -18,3 +18,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2025-12-08T15:09:07+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2025-12-10T13:45:50+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2025-12-11T14:08:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
