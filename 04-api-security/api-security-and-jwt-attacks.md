@@ -18,3 +18,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2025-12-08T15:51:41+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2025-12-10T14:30:24+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2025-12-11T16:49:25+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
