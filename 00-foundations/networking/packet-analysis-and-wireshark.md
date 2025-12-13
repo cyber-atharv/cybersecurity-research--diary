@@ -20,3 +20,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2025-12-10T10:29:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2025-12-10T19:32:22+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2025-12-13T20:55:50+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
