@@ -18,3 +18,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2025-12-08T19:10:40+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2025-12-10T17:01:23+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2025-12-13T13:23:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
