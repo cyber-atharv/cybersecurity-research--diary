@@ -18,3 +18,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2025-12-08T20:26:31+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2025-12-10T18:15:14+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2025-12-13T16:33:42+05:30 | Stream Filtering & PCRE Flag Optimization -->
