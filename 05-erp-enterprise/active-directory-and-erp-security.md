@@ -18,3 +18,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2025-12-08T19:31:57+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2025-12-10T17:30:40+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2025-12-13T14:22:08+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
