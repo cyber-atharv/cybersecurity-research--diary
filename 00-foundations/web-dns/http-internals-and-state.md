@@ -22,3 +22,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2025-12-10T20:01:39+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2025-12-15T10:00:00+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2025-12-15T21:21:05+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
