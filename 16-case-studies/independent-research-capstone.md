@@ -20,3 +20,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2025-12-10T18:31:31+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2025-12-13T17:45:59+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2025-12-15T19:31:57+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
