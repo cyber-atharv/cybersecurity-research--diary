@@ -22,3 +22,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2025-12-10T19:16:05+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2025-12-13T19:56:33+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2025-12-15T20:26:31+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
