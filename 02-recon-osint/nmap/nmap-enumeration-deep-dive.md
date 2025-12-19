@@ -22,3 +22,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2025-12-10T21:31:47+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2025-12-15T11:50:08+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2025-12-19T12:08:51+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
