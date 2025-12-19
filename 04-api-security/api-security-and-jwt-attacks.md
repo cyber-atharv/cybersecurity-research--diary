@@ -22,3 +22,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2025-12-11T16:49:25+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2025-12-15T14:35:50+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2025-12-19T16:11:33+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
