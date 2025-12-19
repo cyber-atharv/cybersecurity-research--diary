@@ -22,3 +22,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2025-12-11T14:08:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2025-12-15T13:40:16+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2025-12-19T14:50:59+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
