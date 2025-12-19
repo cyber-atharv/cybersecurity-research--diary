@@ -22,3 +22,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2025-12-13T13:23:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2025-12-15T17:41:49+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2025-12-19T20:48:32+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
