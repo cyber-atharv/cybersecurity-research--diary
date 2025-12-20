@@ -24,3 +24,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2025-12-15T14:14:33+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2025-12-19T15:24:16+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2025-12-20T15:31:15+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
