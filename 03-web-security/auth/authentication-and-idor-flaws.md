@@ -24,3 +24,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2025-12-15T13:19:59+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2025-12-19T14:03:42+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2025-12-20T14:46:41+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
