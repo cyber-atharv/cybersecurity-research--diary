@@ -24,3 +24,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2025-12-15T11:50:08+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2025-12-19T12:08:51+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2025-12-20T13:45:50+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
