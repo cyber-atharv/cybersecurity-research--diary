@@ -26,3 +26,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2025-12-15T20:05:14+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2025-12-20T11:14:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2025-12-20T20:17:56+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
