@@ -24,3 +24,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2025-12-15T19:31:57+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2025-12-20T10:45:34+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2025-12-20T20:01:39+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
