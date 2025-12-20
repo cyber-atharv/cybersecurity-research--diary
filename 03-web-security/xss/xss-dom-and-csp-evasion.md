@@ -24,3 +24,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2025-12-15T13:40:16+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2025-12-19T14:50:59+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2025-12-20T15:15:58+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
