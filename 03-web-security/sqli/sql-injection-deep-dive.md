@@ -26,3 +26,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2025-12-19T13:29:25+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2025-12-20T14:30:24+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2025-12-21T16:49:25+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
