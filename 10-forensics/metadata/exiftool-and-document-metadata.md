@@ -26,3 +26,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2025-12-19T18:06:24+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2025-12-20T17:01:23+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2025-12-22T13:23:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
