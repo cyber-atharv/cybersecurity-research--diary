@@ -26,3 +26,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2025-12-20T10:29:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2025-12-20T19:32:22+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2025-12-22T20:55:50+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
