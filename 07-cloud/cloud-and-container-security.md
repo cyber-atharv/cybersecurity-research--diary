@@ -26,3 +26,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2025-12-20T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2025-12-20T19:16:05+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2025-12-22T19:56:33+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
