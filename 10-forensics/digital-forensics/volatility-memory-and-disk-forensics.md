@@ -26,3 +26,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2025-12-19T18:40:41+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2025-12-20T17:30:40+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2025-12-22T14:22:08+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
