@@ -26,3 +26,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2025-12-20T10:45:34+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2025-12-20T20:01:39+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2025-12-23T10:00:00+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
