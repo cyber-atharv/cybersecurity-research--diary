@@ -28,3 +28,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2025-12-20T13:45:50+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2025-12-21T14:08:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2025-12-24T12:41:51+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
