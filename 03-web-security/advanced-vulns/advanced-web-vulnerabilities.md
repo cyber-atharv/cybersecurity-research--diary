@@ -28,3 +28,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2025-12-20T15:31:15+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2025-12-21T20:44:16+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2025-12-24T16:52:16+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
