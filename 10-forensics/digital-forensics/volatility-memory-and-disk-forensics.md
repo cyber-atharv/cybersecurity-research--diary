@@ -28,3 +28,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2025-12-20T17:30:40+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2025-12-22T14:22:08+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2025-12-24T21:03:41+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
