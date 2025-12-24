@@ -28,3 +28,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2025-12-20T17:01:23+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2025-12-22T13:23:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2025-12-24T20:18:24+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
