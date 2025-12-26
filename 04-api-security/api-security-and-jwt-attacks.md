@@ -30,3 +30,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2025-12-22T10:00:00+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2025-12-24T17:50:33+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2025-12-26T20:50:40+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
