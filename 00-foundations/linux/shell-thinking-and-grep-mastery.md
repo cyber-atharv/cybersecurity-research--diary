@@ -30,3 +30,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2025-12-20T20:46:13+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2025-12-23T14:49:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2025-12-26T14:20:16+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
