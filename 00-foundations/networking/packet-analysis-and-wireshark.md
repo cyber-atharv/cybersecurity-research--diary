@@ -30,3 +30,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2025-12-20T21:02:30+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2025-12-23T17:20:51+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2025-12-26T14:59:33+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
