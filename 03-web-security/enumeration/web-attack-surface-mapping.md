@@ -30,3 +30,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2025-12-21T15:22:08+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2025-12-24T13:26:08+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2025-12-26T18:01:15+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
