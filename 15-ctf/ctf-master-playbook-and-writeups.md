@@ -28,3 +28,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2025-12-20T18:31:31+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2025-12-22T17:45:59+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2025-12-26T11:05:34+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
