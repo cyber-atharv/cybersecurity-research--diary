@@ -28,3 +28,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2025-12-20T20:01:39+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2025-12-23T10:00:00+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2025-12-26T13:15:42+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
