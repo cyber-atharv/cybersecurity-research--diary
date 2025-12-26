@@ -30,3 +30,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2025-12-21T10:00:00+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2025-12-24T10:00:00+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2025-12-26T16:04:07+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
