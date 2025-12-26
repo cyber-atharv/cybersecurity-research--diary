@@ -3210,3 +3210,18 @@ A mounted docker.sock allows spawning a host-root privileged container, granting
 - *Defensive Countermeasure*: Blue team must deploy kernel-level auditing and telemetry correlation rather than superficial string filters.
 
 ---
+
+### 🗓️ Log Entry: 2025-12-26 21:16:57 [Session 22/22]
+
+**Strategic Focus**: `Detection Engineering: Crafting Sigma Rules for EDR Telemetry`
+
+**Technical Substrate**:
+Authored Sigma rules detecting LOLBAS binary execution (certutil, mshta) mapped directly to MITRE ATT&CK sub-techniques.
+
+**Tactical Analysis (Atharv Mastermind Reflection)**:
+- *Hypothesis*: Approached the problem under the assumption that system state would maintain deterministic boundaries under stress.
+- *Observation*: Monitored telemetry during controlled execution. Edge conditions produce subtle timing and state shifts.
+- *Breakthrough*: Isolated the core invariant violation. The vulnerability is verified without speculative assumptions.
+- *Defensive Countermeasure*: Blue team must deploy kernel-level auditing and telemetry correlation rather than superficial string filters.
+
+---
