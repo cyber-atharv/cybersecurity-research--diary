@@ -30,3 +30,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2025-12-21T11:27:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2025-12-24T10:58:17+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2025-12-26T16:30:24+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
