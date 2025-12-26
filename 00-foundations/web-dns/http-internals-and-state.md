@@ -30,3 +30,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2025-12-20T21:31:47+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2025-12-23T19:38:08+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2025-12-26T15:25:50+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
