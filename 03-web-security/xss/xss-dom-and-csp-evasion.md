@@ -30,3 +30,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2025-12-21T19:30:59+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2025-12-24T16:07:59+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2025-12-26T19:45:06+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
