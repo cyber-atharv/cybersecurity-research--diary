@@ -32,3 +32,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2025-12-24T10:58:17+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2025-12-26T16:30:24+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2025-12-28T20:01:15+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
