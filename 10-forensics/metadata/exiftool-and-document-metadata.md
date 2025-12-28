@@ -30,3 +30,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2025-12-22T13:23:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2025-12-24T20:18:24+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2025-12-28T10:47:17+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
