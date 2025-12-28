@@ -30,3 +30,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2025-12-22T20:55:50+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2025-12-26T12:49:25+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2025-12-28T15:24:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
