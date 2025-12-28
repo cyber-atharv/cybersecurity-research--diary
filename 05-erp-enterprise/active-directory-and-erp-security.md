@@ -30,3 +30,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2025-12-22T18:44:16+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2025-12-26T11:44:51+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2025-12-28T14:03:42+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
