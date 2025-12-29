@@ -32,3 +32,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2025-12-26T12:49:25+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2025-12-28T15:24:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2025-12-29T20:01:15+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
