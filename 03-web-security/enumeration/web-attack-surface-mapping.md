@@ -32,3 +32,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2025-12-24T13:26:08+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2025-12-26T18:01:15+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2025-12-29T10:00:00+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
