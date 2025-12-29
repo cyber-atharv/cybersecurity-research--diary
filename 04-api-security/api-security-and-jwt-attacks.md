@@ -32,3 +32,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2025-12-24T17:50:33+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2025-12-26T20:50:40+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2025-12-29T13:29:25+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
