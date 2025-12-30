@@ -34,3 +34,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2025-12-26T14:20:16+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2025-12-28T17:32:07+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2025-12-30T10:00:00+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
