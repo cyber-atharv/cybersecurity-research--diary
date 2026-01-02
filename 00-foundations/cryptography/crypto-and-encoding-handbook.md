@@ -34,3 +34,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2025-12-26T16:30:24+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2025-12-28T20:01:15+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-01-02T10:00:00+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
