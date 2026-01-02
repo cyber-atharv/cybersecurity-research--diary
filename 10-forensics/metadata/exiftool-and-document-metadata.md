@@ -34,3 +34,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2025-12-28T10:47:17+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2025-12-29T15:24:16+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-01-02T14:14:07+05:30 | TCP State Machine & Half-Open SYN Probing -->
