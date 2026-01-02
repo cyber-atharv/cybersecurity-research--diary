@@ -34,3 +34,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2025-12-26T21:16:57+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2025-12-29T14:03:42+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-01-02T13:29:33+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
