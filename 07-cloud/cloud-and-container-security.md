@@ -34,3 +34,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2025-12-28T14:50:59+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2025-12-29T19:27:58+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-01-02T16:16:49+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
