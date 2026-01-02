@@ -34,3 +34,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2025-12-26T19:45:06+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2025-12-29T12:08:51+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-01-02T12:15:42+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
