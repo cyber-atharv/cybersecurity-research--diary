@@ -36,3 +36,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2025-12-29T18:06:24+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-01-02T15:31:15+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-01-03T20:44:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
