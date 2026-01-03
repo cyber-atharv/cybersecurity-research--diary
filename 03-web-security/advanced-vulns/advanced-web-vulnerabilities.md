@@ -36,3 +36,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2025-12-29T12:42:08+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-01-02T12:44:59+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-01-03T10:00:00+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
