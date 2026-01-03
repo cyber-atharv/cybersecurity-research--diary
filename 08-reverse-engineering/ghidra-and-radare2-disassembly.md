@@ -36,3 +36,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2025-12-29T16:45:50+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-01-02T14:46:41+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-01-03T18:03:42+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
