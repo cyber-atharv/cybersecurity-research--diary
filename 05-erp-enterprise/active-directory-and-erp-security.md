@@ -36,3 +36,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2025-12-29T18:40:41+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-01-02T16:00:32+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-01-05T10:00:00+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
