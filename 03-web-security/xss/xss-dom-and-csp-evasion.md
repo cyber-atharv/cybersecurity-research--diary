@@ -38,3 +38,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-01-02T12:15:42+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-01-02T21:31:47+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-01-07T14:14:33+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
