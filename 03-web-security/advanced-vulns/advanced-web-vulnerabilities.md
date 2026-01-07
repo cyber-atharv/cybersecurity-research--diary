@@ -38,3 +38,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-01-02T12:44:59+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-01-03T10:00:00+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-01-07T14:35:50+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
