@@ -38,3 +38,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-01-02T14:30:24+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-01-03T16:49:25+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-01-07T16:46:15+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
