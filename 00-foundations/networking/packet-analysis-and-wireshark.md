@@ -42,3 +42,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-01-07T10:00:00+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-01-07T21:21:05+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-01-09T19:00:48+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
