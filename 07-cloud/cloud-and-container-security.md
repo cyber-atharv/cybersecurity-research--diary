@@ -40,3 +40,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-01-05T12:07:17+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-01-07T19:10:40+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-01-09T17:01:23+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
