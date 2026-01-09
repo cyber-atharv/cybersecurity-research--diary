@@ -40,3 +40,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-01-02T20:46:13+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-01-07T13:19:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-01-09T12:15:42+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
