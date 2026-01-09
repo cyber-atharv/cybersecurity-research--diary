@@ -42,3 +42,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-01-07T13:19:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-01-09T12:15:42+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-01-09T21:31:47+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
