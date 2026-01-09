@@ -42,3 +42,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-01-05T20:09:25+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-01-07T21:00:48+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-01-09T18:31:31+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
