@@ -40,3 +40,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-01-02T19:32:22+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-01-07T11:50:08+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-01-09T11:14:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
