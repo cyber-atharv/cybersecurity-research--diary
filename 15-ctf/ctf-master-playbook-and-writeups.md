@@ -40,3 +40,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-01-03T20:44:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-01-07T18:15:06+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-01-09T16:16:49+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
