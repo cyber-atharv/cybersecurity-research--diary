@@ -40,3 +40,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-01-02T19:16:05+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-01-07T11:29:51+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-01-09T10:45:34+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
