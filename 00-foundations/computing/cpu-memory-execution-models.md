@@ -42,3 +42,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-01-05T18:02:08+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-01-07T20:26:31+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-01-09T18:15:14+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
