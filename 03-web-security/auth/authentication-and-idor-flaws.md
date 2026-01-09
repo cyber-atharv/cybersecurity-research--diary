@@ -40,3 +40,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-01-02T21:02:30+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-01-07T13:40:16+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-01-09T12:44:59+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
