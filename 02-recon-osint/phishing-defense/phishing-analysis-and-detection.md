@@ -42,3 +42,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-01-07T15:30:24+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-01-09T14:14:07+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-01-10T15:22:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
