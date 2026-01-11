@@ -42,3 +42,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-01-07T18:36:23+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-01-09T16:45:06+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-01-11T11:21:34+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
