@@ -44,3 +44,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-01-09T13:29:33+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-01-10T12:41:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-01-12T10:00:00+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
