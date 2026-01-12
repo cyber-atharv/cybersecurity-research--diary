@@ -44,3 +44,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-01-09T14:46:41+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-01-10T18:03:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-01-12T13:26:08+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
