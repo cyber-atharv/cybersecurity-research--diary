@@ -46,3 +46,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-01-09T19:16:05+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-01-11T16:11:33+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-01-15T14:49:34+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
