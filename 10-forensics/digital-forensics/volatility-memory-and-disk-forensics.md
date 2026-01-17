@@ -46,3 +46,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-01-10T19:30:59+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-01-12T14:24:25+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-01-17T17:32:07+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
