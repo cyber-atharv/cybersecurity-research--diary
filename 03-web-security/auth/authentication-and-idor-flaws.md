@@ -46,3 +46,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-01-10T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-01-11T20:48:32+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-01-17T12:42:08+05:30 | TCP State Machine & Half-Open SYN Probing -->
