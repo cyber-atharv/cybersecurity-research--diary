@@ -46,3 +46,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-01-11T10:47:17+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-01-12T16:52:16+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-01-17T19:27:58+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
