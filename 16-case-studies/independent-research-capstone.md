@@ -46,3 +46,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-01-11T13:29:25+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-01-12T20:18:24+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-01-18T10:00:00+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
