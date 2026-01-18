@@ -48,3 +48,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-01-11T18:06:24+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-01-17T10:00:00+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-01-18T16:07:59+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
