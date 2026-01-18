@@ -48,3 +48,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-01-12T10:00:00+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-01-17T14:03:42+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-01-18T21:03:41+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
