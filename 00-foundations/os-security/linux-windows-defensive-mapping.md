@@ -48,3 +48,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-01-11T16:45:50+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-01-15T17:20:51+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-01-18T14:24:25+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
