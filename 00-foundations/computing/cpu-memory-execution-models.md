@@ -48,3 +48,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-01-11T14:03:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-01-12T21:03:41+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-01-18T10:58:17+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
