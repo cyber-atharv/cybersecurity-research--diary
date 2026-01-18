@@ -48,3 +48,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-01-11T14:50:59+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-01-15T10:00:00+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-01-18T11:43:34+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
