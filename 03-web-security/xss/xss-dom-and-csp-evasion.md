@@ -48,3 +48,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-01-11T21:22:49+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-01-17T13:29:25+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-01-18T20:18:24+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
