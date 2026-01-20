@@ -50,3 +50,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-01-15T10:00:00+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-01-18T11:43:34+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-01-20T18:40:41+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
