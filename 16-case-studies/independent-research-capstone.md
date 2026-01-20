@@ -48,3 +48,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-01-12T20:18:24+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-01-18T10:00:00+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-01-20T17:32:07+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
