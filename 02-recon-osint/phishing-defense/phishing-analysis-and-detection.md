@@ -48,3 +48,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-01-12T11:43:34+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-01-17T15:24:16+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-01-20T10:47:17+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
