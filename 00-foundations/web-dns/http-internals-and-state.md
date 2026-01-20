@@ -50,3 +50,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-01-15T14:49:34+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-01-18T13:26:08+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-01-20T20:01:15+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
