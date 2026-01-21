@@ -50,3 +50,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-01-17T14:50:59+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-01-20T10:00:00+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-01-21T15:25:59+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
