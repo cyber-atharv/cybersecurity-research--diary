@@ -50,3 +50,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-01-17T12:08:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-01-18T18:35:50+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-01-21T12:23:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
