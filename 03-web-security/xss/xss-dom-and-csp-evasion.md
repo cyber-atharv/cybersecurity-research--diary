@@ -50,3 +50,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-01-17T13:29:25+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-01-18T20:18:24+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-01-21T13:54:25+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
