@@ -52,3 +52,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-01-18T12:41:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-01-20T19:27:58+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-01-24T10:47:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
