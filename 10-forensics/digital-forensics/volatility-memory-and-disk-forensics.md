@@ -52,3 +52,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-01-20T12:42:08+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-01-21T18:27:07+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-01-24T20:48:32+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
