@@ -54,3 +54,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-01-20T21:22:49+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-01-24T12:42:08+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-01-28T20:40:59+05:30 | Stream Filtering & PCRE Flag Optimization -->
