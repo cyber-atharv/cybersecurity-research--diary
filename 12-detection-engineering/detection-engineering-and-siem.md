@@ -52,3 +52,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-01-20T16:45:50+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-01-23T13:07:17+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-01-28T10:00:00+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
