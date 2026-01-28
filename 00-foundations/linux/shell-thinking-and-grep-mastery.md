@@ -54,3 +54,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-01-20T18:40:41+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-01-24T10:00:00+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-01-28T14:38:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
