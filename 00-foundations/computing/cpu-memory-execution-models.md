@@ -54,3 +54,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-01-20T18:06:24+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-01-23T19:08:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-01-28T13:01:34+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
