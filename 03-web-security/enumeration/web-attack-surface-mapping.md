@@ -54,3 +54,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-01-21T11:31:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-01-24T14:50:59+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-01-29T13:25:34+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
