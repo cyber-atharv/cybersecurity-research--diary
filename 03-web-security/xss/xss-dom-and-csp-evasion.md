@@ -54,3 +54,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-01-21T13:54:25+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-01-24T16:45:50+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-01-29T18:39:25+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
