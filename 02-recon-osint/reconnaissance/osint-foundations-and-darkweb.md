@@ -54,3 +54,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-01-21T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-01-24T13:29:25+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-01-29T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
