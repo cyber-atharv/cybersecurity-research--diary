@@ -54,3 +54,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-01-21T17:35:50+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-01-24T20:01:15+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-01-30T13:08:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
