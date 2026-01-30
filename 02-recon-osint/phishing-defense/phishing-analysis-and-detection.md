@@ -54,3 +54,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-01-21T16:04:16+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-01-24T18:40:41+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-01-30T11:07:17+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
