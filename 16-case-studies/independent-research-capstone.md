@@ -54,3 +54,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-01-23T16:01:34+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-01-28T11:37:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-01-30T21:12:07+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
