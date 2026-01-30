@@ -54,3 +54,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-01-21T15:25:59+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-01-24T18:06:24+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-01-30T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
