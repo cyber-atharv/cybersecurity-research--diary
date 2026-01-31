@@ -56,3 +56,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-01-25T13:07:17+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-01-30T17:10:59+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-01-31T20:50:40+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
