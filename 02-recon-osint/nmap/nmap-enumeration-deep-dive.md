@@ -56,3 +56,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-01-24T14:03:42+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-01-29T11:49:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-01-31T13:54:59+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
