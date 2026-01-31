@@ -56,3 +56,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-01-24T18:06:24+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-01-30T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-01-31T16:56:41+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
