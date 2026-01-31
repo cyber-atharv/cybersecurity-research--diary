@@ -56,3 +56,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-01-24T12:42:08+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-01-28T20:40:59+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-01-31T12:49:25+05:30 | TCP State Machine & Half-Open SYN Probing -->
