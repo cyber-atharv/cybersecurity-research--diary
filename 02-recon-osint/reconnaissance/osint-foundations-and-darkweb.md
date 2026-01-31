@@ -56,3 +56,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-01-24T13:29:25+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-01-29T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-01-31T13:15:42+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
