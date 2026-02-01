@@ -58,3 +58,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-01-30T14:02:08+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-01-31T19:06:49+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-02-01T19:10:40+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
