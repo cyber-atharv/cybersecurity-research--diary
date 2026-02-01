@@ -58,3 +58,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-01-28T19:03:42+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-01-31T12:10:08+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-02-01T13:19:59+05:30 | TCP State Machine & Half-Open SYN Probing -->
