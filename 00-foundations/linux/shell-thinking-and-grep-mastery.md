@@ -58,3 +58,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-01-28T14:38:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-01-31T10:39:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-02-01T11:50:08+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
