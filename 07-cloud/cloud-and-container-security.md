@@ -56,3 +56,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-01-25T19:08:51+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-01-30T19:11:33+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-02-01T10:00:00+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
