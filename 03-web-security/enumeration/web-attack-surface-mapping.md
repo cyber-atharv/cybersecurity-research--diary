@@ -60,3 +60,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-01-31T14:20:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-02-01T15:09:07+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-02-03T20:55:50+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
