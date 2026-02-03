@@ -60,3 +60,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-01-31T11:05:34+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-02-01T12:24:25+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-02-03T14:22:08+05:30 | Stream Filtering & PCRE Flag Optimization -->
