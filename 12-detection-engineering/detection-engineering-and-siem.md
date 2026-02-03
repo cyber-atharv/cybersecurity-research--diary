@@ -58,3 +58,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-01-30T20:05:50+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-02-01T10:34:17+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-02-03T10:00:00+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
