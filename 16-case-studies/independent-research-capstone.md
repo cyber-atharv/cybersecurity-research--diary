@@ -62,3 +62,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-02-03T11:12:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-02-05T21:16:15+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-02-07T21:00:48+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
