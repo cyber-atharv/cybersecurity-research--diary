@@ -62,3 +62,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-02-01T11:29:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-02-03T12:11:34+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-02-07T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
