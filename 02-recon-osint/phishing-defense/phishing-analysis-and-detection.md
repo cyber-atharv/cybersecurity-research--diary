@@ -62,3 +62,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-02-01T17:41:49+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-02-05T13:54:25+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-02-07T16:25:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
