@@ -62,3 +62,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-02-01T15:30:24+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-02-05T10:00:00+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-02-07T14:14:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
