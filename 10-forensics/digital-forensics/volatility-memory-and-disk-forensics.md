@@ -62,3 +62,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-02-01T19:10:40+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-02-05T16:04:16+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-02-07T17:41:49+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
