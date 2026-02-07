@@ -62,3 +62,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-02-01T12:24:25+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-02-03T14:22:08+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-02-07T10:55:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
