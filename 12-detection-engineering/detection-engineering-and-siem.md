@@ -62,3 +62,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-02-03T10:00:00+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-02-05T20:37:58+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-02-07T20:26:31+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
