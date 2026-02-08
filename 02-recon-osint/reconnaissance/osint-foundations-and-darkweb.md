@@ -64,3 +64,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-02-03T18:44:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-02-07T12:45:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-02-08T18:39:25+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
