@@ -64,3 +64,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-02-03T20:55:50+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-02-07T13:40:16+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-02-09T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
