@@ -64,3 +64,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-02-05T10:52:17+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-02-07T14:35:50+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-02-09T11:05:34+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
