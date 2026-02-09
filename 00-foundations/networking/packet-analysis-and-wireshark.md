@@ -66,3 +66,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-02-07T10:55:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-02-08T11:49:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-02-09T20:11:23+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
