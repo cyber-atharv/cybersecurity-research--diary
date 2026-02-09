@@ -64,3 +64,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-02-05T16:56:33+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-02-07T18:15:06+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-02-09T15:25:50+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
