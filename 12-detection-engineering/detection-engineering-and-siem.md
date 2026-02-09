@@ -64,3 +64,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-02-05T20:37:58+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-02-07T20:26:31+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-02-09T18:01:15+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
