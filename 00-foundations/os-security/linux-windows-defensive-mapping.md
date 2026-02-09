@@ -66,3 +66,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-02-07T11:50:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-02-08T15:14:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-02-09T21:16:57+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
