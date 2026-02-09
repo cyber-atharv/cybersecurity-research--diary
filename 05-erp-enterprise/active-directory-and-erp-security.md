@@ -64,3 +64,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-02-05T19:06:24+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-02-07T19:31:57+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-02-09T16:56:41+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
