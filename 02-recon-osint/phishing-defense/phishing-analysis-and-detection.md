@@ -64,3 +64,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-02-05T13:54:25+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-02-07T16:25:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-02-09T13:15:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
