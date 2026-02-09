@@ -64,3 +64,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-02-05T18:27:07+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-02-07T19:10:40+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-02-09T16:30:24+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
