@@ -68,3 +68,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-02-08T15:14:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-02-09T21:16:57+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-02-11T19:03:42+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
