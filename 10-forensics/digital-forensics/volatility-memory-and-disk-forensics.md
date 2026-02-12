@@ -68,3 +68,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-02-09T14:59:33+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-02-10T18:06:24+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-02-12T14:14:07+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
