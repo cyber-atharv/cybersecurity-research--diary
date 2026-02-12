@@ -68,3 +68,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-02-09T12:10:08+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-02-10T14:50:59+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-02-12T12:15:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
