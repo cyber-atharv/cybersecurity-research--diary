@@ -68,3 +68,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-02-09T15:25:50+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-02-10T18:40:41+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-02-12T14:30:24+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
