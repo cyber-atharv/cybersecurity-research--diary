@@ -70,3 +70,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-02-10T16:11:33+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-02-12T13:00:16+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-02-14T11:49:17+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
