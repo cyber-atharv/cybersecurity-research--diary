@@ -70,3 +70,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-02-11T10:00:00+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-02-12T16:16:49+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-02-16T12:41:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
