@@ -72,3 +72,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-02-11T14:38:51+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-02-12T17:30:40+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-02-16T15:09:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
