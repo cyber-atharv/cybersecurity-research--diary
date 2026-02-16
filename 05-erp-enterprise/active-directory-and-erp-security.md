@@ -70,3 +70,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-02-10T20:48:32+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-02-12T15:31:15+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-02-16T10:58:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
