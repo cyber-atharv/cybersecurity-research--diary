@@ -72,3 +72,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-02-12T11:14:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-02-12T20:17:56+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-02-17T10:00:00+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
