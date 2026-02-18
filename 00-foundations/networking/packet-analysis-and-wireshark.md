@@ -74,3 +74,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-02-12T17:46:57+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-02-16T16:07:59+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-02-18T15:30:24+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
