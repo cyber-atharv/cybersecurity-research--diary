@@ -74,3 +74,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-02-12T19:16:05+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-02-16T19:33:07+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-02-18T17:20:32+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
