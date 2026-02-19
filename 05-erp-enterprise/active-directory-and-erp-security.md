@@ -74,3 +74,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-02-16T10:58:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-02-18T12:45:42+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-02-19T13:29:25+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
