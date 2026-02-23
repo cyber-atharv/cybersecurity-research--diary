@@ -76,3 +76,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-02-17T18:02:08+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-02-18T20:26:31+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-02-23T10:00:00+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
