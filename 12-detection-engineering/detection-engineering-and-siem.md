@@ -76,3 +76,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-02-18T13:40:16+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-02-19T14:50:59+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-02-23T20:05:50+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
