@@ -80,3 +80,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-02-19T18:06:24+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-02-24T19:08:51+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-02-25T21:00:48+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
