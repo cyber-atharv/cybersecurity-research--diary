@@ -78,3 +78,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-02-18T19:10:40+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-02-21T13:07:17+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-02-25T12:45:42+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
