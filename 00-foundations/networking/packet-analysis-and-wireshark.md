@@ -80,3 +80,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-02-19T17:32:07+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-02-24T16:01:34+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-02-25T20:26:31+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
