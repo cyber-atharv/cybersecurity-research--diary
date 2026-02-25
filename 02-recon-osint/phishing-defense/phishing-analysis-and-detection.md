@@ -78,3 +78,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-02-18T21:00:48+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-02-23T11:07:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-02-25T14:35:50+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
