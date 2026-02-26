@@ -80,3 +80,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-02-21T16:01:34+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-02-25T13:19:59+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-02-26T15:09:42+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
