@@ -80,3 +80,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-02-23T13:08:51+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-02-25T15:30:24+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-02-26T19:33:07+05:30 | Stream Filtering & PCRE Flag Optimization -->
