@@ -80,3 +80,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-02-23T11:07:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-02-25T14:35:50+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-02-26T17:50:33+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
