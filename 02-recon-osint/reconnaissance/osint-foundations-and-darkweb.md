@@ -80,3 +80,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-02-19T20:01:15+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-02-25T10:55:34+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-02-26T10:58:17+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
