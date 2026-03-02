@@ -82,3 +82,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-02-24T16:01:34+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-02-25T20:26:31+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-03-02T14:20:16+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
