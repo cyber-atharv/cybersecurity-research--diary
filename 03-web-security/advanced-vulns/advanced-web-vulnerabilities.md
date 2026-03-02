@@ -82,3 +82,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-02-25T13:40:16+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-02-26T16:07:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-03-02T19:45:06+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
