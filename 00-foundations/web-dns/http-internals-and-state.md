@@ -82,3 +82,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-02-24T19:08:51+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-02-25T21:00:48+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-03-02T14:59:33+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
