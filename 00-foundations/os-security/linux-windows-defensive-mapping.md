@@ -82,3 +82,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-02-25T10:00:00+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-02-25T21:21:05+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-03-02T15:25:50+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
