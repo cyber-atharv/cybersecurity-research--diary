@@ -80,3 +80,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-02-23T21:12:07+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-02-25T19:10:40+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-03-02T12:49:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
