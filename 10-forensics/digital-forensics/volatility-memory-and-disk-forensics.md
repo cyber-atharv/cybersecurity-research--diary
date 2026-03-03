@@ -82,3 +82,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-02-25T15:51:41+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-02-26T20:18:24+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-03-03T10:58:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
