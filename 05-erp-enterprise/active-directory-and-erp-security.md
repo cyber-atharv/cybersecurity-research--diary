@@ -82,3 +82,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-02-25T17:41:49+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-03-02T11:05:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-03-03T14:24:25+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
