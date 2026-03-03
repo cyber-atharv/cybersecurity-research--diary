@@ -82,3 +82,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-02-25T16:25:58+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-02-26T21:03:41+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-03-03T11:43:34+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
