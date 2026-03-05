@@ -86,3 +86,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-03-02T13:54:59+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-03-03T18:35:50+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-03-05T19:31:57+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
