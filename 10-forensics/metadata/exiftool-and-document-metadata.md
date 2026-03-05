@@ -84,3 +84,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-02-26T19:33:07+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-03-03T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-03-05T15:09:07+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
