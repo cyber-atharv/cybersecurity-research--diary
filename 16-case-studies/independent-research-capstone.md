@@ -84,3 +84,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-03-02T12:49:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-03-03T16:52:16+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-03-05T18:36:23+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
