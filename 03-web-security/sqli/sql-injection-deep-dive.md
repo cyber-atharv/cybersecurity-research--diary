@@ -84,3 +84,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-02-26T13:26:08+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-03-02T18:01:15+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-03-05T11:50:08+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
