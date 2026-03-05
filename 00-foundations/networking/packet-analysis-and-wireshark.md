@@ -86,3 +86,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-03-02T14:20:16+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-03-03T19:33:07+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-03-05T20:05:14+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
