@@ -84,3 +84,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-02-26T14:24:25+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-03-02T18:40:32+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-03-05T12:24:25+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
