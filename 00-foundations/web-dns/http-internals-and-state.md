@@ -86,3 +86,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-03-02T14:59:33+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-03-03T20:18:24+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-03-05T20:26:31+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
