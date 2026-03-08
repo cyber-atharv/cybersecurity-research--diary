@@ -86,3 +86,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-03-02T18:40:32+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-03-05T12:24:25+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-03-08T13:02:08+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
