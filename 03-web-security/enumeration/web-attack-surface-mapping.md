@@ -86,3 +86,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-03-02T17:35:58+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-03-05T11:29:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-03-08T11:31:34+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
