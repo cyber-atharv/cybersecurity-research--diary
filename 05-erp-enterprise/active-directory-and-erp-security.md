@@ -86,3 +86,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-03-03T14:24:25+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-03-05T17:20:32+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-03-08T21:16:15+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
