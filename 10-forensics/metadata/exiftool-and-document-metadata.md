@@ -86,3 +86,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-03-03T10:00:00+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-03-05T15:09:07+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-03-08T17:35:50+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
