@@ -86,3 +86,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-03-03T16:07:59+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-03-05T18:15:06+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-03-12T13:07:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
