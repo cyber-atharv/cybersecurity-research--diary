@@ -86,3 +86,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-03-03T16:52:16+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-03-05T18:36:23+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-03-12T16:01:34+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
