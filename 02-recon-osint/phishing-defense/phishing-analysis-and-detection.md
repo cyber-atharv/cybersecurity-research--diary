@@ -88,3 +88,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-03-05T14:14:33+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-03-08T16:04:16+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-03-14T19:30:59+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
