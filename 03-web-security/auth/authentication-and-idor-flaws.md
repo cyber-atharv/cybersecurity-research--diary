@@ -90,3 +90,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-03-08T13:02:08+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-03-14T14:08:51+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-03-15T17:01:23+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
