@@ -90,3 +90,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-03-08T18:27:07+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-03-15T10:29:17+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-03-15T19:32:22+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
