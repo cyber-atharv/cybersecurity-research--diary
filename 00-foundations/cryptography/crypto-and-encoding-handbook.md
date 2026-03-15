@@ -90,3 +90,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-03-05T21:21:05+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-03-13T18:02:08+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-03-15T15:15:58+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
