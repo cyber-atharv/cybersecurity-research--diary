@@ -88,3 +88,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-03-05T18:15:06+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-03-12T13:07:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-03-15T12:44:59+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
