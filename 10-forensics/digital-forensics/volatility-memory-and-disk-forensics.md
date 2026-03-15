@@ -88,3 +88,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-03-05T15:30:24+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-03-08T18:27:07+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-03-15T10:29:17+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
