@@ -92,3 +92,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-03-14T12:41:34+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-03-15T16:45:06+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-03-16T19:33:07+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
