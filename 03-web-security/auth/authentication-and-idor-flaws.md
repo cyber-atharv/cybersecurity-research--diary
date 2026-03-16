@@ -92,3 +92,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-03-14T14:08:51+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-03-15T17:01:23+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-03-16T20:18:24+05:30 | Stream Filtering & PCRE Flag Optimization -->
