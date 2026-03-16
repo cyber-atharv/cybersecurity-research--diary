@@ -92,3 +92,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-03-14T15:22:08+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-03-15T17:30:40+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-03-16T21:03:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
