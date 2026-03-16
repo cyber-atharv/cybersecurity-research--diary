@@ -92,3 +92,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-03-14T11:27:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-03-15T16:16:49+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-03-16T18:35:50+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
