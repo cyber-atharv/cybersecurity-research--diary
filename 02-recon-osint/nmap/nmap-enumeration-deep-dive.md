@@ -92,3 +92,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-03-14T10:00:00+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-03-15T16:00:32+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-03-16T17:50:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
