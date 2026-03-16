@@ -92,3 +92,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-03-13T12:07:17+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-03-15T14:14:07+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-03-16T13:26:08+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
