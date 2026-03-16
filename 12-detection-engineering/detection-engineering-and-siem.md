@@ -90,3 +90,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-03-12T13:07:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-03-15T12:44:59+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-03-16T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
