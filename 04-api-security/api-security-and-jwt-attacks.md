@@ -92,3 +92,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-03-14T18:03:42+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-03-15T18:15:14+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-03-18T10:29:17+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
