@@ -94,3 +94,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-03-15T13:45:50+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-03-16T12:41:51+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-03-18T15:15:58+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
