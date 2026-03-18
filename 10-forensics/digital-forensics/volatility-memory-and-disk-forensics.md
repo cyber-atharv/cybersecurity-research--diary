@@ -92,3 +92,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-03-15T10:29:17+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-03-15T19:32:22+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-03-18T11:59:25+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
