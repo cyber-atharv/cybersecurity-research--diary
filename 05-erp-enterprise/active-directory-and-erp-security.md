@@ -92,3 +92,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-03-15T11:59:25+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-03-15T21:02:30+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-03-18T13:29:33+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
