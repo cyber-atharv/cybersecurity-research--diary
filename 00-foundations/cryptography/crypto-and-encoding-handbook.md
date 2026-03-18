@@ -94,3 +94,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-03-15T15:15:58+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-03-16T16:07:59+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-03-18T16:45:06+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
