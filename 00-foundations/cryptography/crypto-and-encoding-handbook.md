@@ -96,3 +96,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-03-16T16:07:59+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-03-18T16:45:06+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-03-21T19:08:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
