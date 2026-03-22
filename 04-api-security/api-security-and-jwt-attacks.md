@@ -96,3 +96,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-03-18T10:29:17+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-03-18T19:32:22+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-03-22T16:07:59+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
