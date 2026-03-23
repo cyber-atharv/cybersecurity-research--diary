@@ -98,3 +98,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-03-18T18:31:31+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-03-22T13:26:08+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-03-23T21:16:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
