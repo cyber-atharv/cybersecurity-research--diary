@@ -98,3 +98,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-03-18T16:16:49+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-03-21T16:01:34+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-03-23T16:56:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
