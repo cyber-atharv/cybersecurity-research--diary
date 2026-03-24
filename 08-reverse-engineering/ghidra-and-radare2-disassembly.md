@@ -98,3 +98,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-03-18T21:31:47+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-03-22T20:18:24+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-03-24T13:54:59+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
