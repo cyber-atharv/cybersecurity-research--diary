@@ -98,3 +98,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-03-20T11:37:17+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-03-23T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-03-24T14:59:33+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
