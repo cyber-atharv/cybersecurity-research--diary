@@ -100,3 +100,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-03-22T16:07:59+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-03-24T11:05:34+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-03-28T11:12:17+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
