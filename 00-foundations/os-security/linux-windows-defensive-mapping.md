@@ -102,3 +102,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-03-23T16:56:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-03-24T19:45:06+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-03-29T19:03:42+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
