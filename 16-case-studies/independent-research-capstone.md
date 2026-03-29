@@ -100,3 +100,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-03-23T13:02:08+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-03-24T16:56:41+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-03-29T11:37:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
