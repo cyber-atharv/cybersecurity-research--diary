@@ -102,3 +102,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-03-23T19:06:24+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-03-24T21:16:57+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-03-31T11:07:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
