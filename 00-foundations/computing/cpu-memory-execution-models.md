@@ -104,3 +104,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-03-24T17:35:58+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-03-29T13:01:34+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-04-01T19:30:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
