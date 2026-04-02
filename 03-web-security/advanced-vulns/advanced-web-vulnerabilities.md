@@ -104,3 +104,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-03-28T10:00:00+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-03-31T16:03:42+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-04-02T20:55:50+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
