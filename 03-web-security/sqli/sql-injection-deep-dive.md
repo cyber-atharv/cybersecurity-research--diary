@@ -104,3 +104,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-03-27T13:07:17+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-03-31T13:08:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-04-02T17:45:59+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
