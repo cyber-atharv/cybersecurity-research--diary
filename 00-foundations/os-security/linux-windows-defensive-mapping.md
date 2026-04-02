@@ -104,3 +104,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-03-24T19:45:06+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-03-29T19:03:42+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-04-02T12:11:34+05:30 | Stream Filtering & PCRE Flag Optimization -->
