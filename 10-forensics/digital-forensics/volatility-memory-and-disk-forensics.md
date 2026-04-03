@@ -104,3 +104,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-03-28T15:34:25+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-03-31T21:12:07+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-04-03T19:38:08+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
