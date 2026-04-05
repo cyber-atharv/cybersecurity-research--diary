@@ -104,3 +104,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-03-29T11:37:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-04-01T18:03:42+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-04-05T20:15:42+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
