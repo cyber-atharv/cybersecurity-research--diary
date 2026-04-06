@@ -106,3 +106,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-03-29T20:40:59+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-04-02T13:23:51+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-04-06T17:39:25+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
