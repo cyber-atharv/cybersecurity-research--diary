@@ -106,3 +106,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-04-01T14:08:51+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-04-05T15:14:51+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-04-07T16:56:41+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
