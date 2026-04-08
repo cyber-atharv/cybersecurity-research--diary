@@ -108,3 +108,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-04-02T18:44:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-04-07T11:05:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-04-08T18:39:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
