@@ -108,3 +108,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-04-03T12:31:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-04-07T13:15:42+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-04-09T13:25:34+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
