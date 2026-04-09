@@ -108,3 +108,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-04-03T17:20:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-04-07T14:20:16+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-04-09T16:50:08+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
