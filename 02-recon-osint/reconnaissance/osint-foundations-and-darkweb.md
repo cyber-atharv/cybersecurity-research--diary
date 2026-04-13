@@ -110,3 +110,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-04-06T19:03:42+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-04-08T11:49:17+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-04-13T19:06:24+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
