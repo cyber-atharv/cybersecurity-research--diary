@@ -108,3 +108,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-04-05T16:50:08+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-04-07T17:35:58+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-04-13T12:23:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
