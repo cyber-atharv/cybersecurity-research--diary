@@ -110,3 +110,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-04-06T14:38:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-04-07T20:50:40+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-04-13T16:56:33+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
