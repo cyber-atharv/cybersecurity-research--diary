@@ -110,3 +110,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-04-06T11:37:17+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-04-07T19:45:06+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-04-13T15:25:59+05:30 | Stream Filtering & PCRE Flag Optimization -->
