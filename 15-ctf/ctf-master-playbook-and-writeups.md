@@ -108,3 +108,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-04-05T13:25:34+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-04-07T16:30:24+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-04-13T10:52:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
