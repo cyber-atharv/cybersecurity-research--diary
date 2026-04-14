@@ -110,3 +110,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-04-07T12:49:25+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-04-09T11:49:17+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-04-14T13:23:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
