@@ -110,3 +110,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-04-07T11:05:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-04-08T18:39:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-04-14T10:00:00+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
