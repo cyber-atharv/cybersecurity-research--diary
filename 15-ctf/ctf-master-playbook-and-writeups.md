@@ -110,3 +110,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-04-07T16:30:24+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-04-13T10:52:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-04-14T20:55:50+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
