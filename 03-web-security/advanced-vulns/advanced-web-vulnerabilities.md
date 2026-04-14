@@ -110,3 +110,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-04-07T12:10:08+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-04-09T10:00:00+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-04-14T12:11:34+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
