@@ -112,3 +112,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-04-07T21:16:57+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-04-13T17:35:50+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-04-15T16:52:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
