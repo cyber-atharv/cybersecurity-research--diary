@@ -112,3 +112,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-04-08T10:00:00+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-04-13T18:27:07+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-04-15T17:50:33+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
