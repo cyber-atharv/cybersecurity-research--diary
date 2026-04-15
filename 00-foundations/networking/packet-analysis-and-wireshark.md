@@ -112,3 +112,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-04-07T20:11:23+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-04-13T16:04:16+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-04-15T15:09:42+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
