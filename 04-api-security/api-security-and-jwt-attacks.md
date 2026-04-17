@@ -112,3 +112,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-04-09T11:49:17+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-04-14T13:23:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-04-17T14:38:51+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
