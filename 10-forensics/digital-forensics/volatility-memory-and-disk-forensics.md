@@ -112,3 +112,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-04-09T18:39:25+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-04-14T17:45:59+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-04-17T20:40:59+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
