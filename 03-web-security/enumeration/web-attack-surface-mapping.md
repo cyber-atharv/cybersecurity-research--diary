@@ -114,3 +114,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-04-13T20:37:58+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-04-15T20:18:24+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-04-20T19:56:33+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
