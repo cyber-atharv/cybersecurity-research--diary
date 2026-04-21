@@ -116,3 +116,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-04-15T13:26:08+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-04-20T11:12:17+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-04-21T21:16:15+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
