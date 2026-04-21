@@ -114,3 +114,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-04-14T18:44:16+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-04-18T10:00:00+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-04-21T16:04:16+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
