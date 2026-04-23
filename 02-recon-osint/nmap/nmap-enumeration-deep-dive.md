@@ -116,3 +116,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-04-15T19:33:07+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-04-20T18:44:16+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-04-23T20:15:42+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
