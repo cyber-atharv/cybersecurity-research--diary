@@ -116,3 +116,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-04-15T14:24:25+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-04-20T12:11:34+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-04-23T10:00:00+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
