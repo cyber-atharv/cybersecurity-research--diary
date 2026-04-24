@@ -118,3 +118,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-04-20T17:45:59+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-04-23T18:39:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-04-24T20:26:31+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
