@@ -116,3 +116,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-04-18T20:09:25+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-04-21T19:45:41+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-04-24T16:46:15+05:30 | TCP State Machine & Half-Open SYN Probing -->
