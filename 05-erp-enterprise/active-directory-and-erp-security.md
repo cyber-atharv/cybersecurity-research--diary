@@ -116,3 +116,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-04-18T16:08:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-04-21T18:27:07+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-04-24T15:51:41+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
