@@ -116,3 +116,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-04-15T21:03:41+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-04-20T20:55:50+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-04-24T10:34:17+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
