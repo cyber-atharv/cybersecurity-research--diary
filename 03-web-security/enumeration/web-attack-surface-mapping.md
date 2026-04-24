@@ -118,3 +118,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-04-20T19:56:33+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-04-24T10:00:00+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-04-24T21:21:05+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
