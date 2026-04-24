@@ -116,3 +116,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-04-17T19:03:42+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-04-21T14:33:42+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-04-24T13:40:16+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
