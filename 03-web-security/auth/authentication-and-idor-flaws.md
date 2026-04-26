@@ -118,3 +118,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-04-21T10:00:00+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-04-24T10:55:34+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-04-26T10:34:17+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
