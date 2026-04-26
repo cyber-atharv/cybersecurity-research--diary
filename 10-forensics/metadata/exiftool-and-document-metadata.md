@@ -118,3 +118,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-04-21T14:33:42+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-04-24T13:40:16+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-04-26T13:19:59+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
