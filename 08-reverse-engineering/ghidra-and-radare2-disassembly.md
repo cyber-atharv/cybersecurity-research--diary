@@ -120,3 +120,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-04-24T14:35:50+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-04-26T14:14:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-04-27T16:04:16+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
