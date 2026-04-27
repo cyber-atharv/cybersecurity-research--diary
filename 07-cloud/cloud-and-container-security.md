@@ -120,3 +120,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-04-24T16:25:58+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-04-26T15:51:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-04-27T19:06:24+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
