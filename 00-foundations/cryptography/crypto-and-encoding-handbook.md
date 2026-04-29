@@ -122,3 +122,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-04-24T20:05:14+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-04-26T19:31:57+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-04-29T12:10:08+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
