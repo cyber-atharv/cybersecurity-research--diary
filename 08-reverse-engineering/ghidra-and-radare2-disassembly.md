@@ -122,3 +122,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-04-26T14:14:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-04-27T16:04:16+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-04-29T19:06:49+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
