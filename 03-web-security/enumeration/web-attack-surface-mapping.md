@@ -122,3 +122,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-04-24T21:21:05+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-04-26T21:00:48+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-04-29T13:54:59+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
