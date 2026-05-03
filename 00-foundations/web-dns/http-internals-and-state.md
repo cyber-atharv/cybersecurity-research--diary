@@ -124,3 +124,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-04-26T18:36:23+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-04-29T11:05:34+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-05-03T16:49:25+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
