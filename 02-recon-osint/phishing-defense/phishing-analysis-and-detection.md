@@ -124,3 +124,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-04-27T13:02:08+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-04-29T16:56:41+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-05-05T15:25:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
