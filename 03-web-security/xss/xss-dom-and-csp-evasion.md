@@ -124,3 +124,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-04-27T10:52:17+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-04-29T15:25:50+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-05-05T13:02:08+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
