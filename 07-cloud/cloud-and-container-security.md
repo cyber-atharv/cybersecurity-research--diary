@@ -124,3 +124,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-04-27T19:06:24+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-04-29T21:16:57+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-05-05T21:16:15+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
