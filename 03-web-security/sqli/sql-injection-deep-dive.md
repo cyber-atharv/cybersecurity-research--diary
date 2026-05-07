@@ -126,3 +126,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-04-29T14:20:16+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-05-05T11:31:34+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-05-07T12:42:08+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
