@@ -126,3 +126,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-04-29T13:15:42+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-05-05T10:00:00+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-05-07T11:21:34+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
