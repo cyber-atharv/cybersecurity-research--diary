@@ -126,3 +126,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-04-29T12:49:25+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-05-03T20:44:16+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-05-07T10:47:17+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
