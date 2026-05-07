@@ -126,3 +126,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-04-29T18:40:32+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-05-05T17:35:50+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-05-07T18:06:24+05:30 | Stream Filtering & PCRE Flag Optimization -->
