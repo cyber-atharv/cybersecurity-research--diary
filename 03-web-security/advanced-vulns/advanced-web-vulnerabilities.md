@@ -126,3 +126,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-04-29T16:04:07+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-05-05T13:54:25+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-05-07T14:50:59+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
