@@ -126,3 +126,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-05-03T11:27:17+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-05-06T11:49:17+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-05-09T11:12:17+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
