@@ -128,3 +128,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-05-03T12:41:34+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-05-06T13:25:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-05-09T12:11:34+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
