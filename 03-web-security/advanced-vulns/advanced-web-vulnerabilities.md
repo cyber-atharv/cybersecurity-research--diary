@@ -128,3 +128,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-05-05T13:54:25+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-05-07T14:50:59+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-05-10T14:38:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
