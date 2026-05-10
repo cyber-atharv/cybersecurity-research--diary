@@ -128,3 +128,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-05-05T11:31:34+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-05-07T12:42:08+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-05-10T10:00:00+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
