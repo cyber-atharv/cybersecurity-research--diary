@@ -128,3 +128,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-05-05T19:45:41+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-05-07T20:01:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-05-11T15:14:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
