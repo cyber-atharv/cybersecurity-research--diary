@@ -128,3 +128,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-05-05T18:27:07+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-05-07T18:40:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-05-11T11:49:17+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
