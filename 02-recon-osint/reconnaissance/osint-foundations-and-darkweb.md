@@ -130,3 +130,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-05-07T10:47:17+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-05-09T18:44:16+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-05-12T20:40:59+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
