@@ -130,3 +130,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-05-07T15:24:16+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-05-10T16:02:08+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-05-15T16:03:42+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
