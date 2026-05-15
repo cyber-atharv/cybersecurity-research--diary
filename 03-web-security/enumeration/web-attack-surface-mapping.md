@@ -130,3 +130,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-05-07T12:08:51+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-05-09T20:55:50+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-05-15T11:07:17+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
