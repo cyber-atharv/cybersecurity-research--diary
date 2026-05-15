@@ -130,3 +130,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-05-07T11:21:34+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-05-09T19:56:33+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-05-15T10:00:00+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
