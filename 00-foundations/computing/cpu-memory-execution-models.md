@@ -132,3 +132,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-05-09T12:11:34+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-05-12T11:37:17+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-05-16T14:33:42+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
