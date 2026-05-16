@@ -132,3 +132,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-05-09T14:22:08+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-05-12T14:38:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-05-16T16:04:16+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
