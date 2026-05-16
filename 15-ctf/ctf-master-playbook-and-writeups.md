@@ -130,3 +130,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-05-07T20:01:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-05-11T15:14:51+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-05-16T10:52:17+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
