@@ -132,3 +132,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-05-09T19:56:33+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-05-15T10:00:00+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-05-16T19:45:41+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
