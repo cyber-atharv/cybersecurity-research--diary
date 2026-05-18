@@ -132,3 +132,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-05-11T18:39:25+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-05-16T12:23:51+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-05-18T19:06:24+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
