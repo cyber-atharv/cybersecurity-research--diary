@@ -136,3 +136,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-05-16T19:45:41+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-05-20T12:15:42+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-05-20T21:31:47+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
