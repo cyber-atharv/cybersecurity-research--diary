@@ -136,3 +136,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-05-16T15:25:59+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-05-20T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-05-20T19:16:05+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
