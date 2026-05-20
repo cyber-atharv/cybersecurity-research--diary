@@ -134,3 +134,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-05-16T10:52:17+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-05-18T17:35:50+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-05-20T17:01:23+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
