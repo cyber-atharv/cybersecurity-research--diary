@@ -136,3 +136,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-05-16T20:37:58+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-05-20T12:44:59+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-05-22T10:00:00+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
