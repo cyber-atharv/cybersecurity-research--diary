@@ -136,3 +136,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-05-18T16:04:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-05-20T16:16:49+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-05-24T10:55:34+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
