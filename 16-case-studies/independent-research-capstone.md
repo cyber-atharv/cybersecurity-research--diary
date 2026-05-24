@@ -136,3 +136,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-05-18T20:37:58+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-05-20T18:31:31+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-05-24T13:40:16+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
