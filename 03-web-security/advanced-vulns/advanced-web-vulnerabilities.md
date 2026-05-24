@@ -138,3 +138,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-05-20T14:14:07+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-05-22T16:02:08+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-05-24T19:31:57+05:30 | TCP State Machine & Half-Open SYN Probing -->
