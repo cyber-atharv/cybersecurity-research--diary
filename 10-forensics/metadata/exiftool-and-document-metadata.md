@@ -136,3 +136,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-05-18T14:33:42+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-05-20T15:31:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-05-24T10:00:00+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
