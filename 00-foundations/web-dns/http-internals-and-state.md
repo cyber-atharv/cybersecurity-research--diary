@@ -138,3 +138,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-05-20T10:45:34+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-05-20T20:01:39+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-05-24T15:30:24+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
