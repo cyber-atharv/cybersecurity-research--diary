@@ -138,3 +138,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-05-20T15:31:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-05-24T10:00:00+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-05-24T21:21:05+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
