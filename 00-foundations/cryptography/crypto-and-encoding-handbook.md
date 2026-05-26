@@ -140,3 +140,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-05-20T20:46:13+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-05-24T16:25:58+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-05-26T18:04:16+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
