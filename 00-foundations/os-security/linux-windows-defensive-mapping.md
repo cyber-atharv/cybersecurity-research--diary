@@ -140,3 +140,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-05-20T20:17:56+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-05-24T15:51:41+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-05-26T17:10:59+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
