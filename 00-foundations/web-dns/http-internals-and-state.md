@@ -140,3 +140,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-05-20T20:01:39+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-05-24T15:30:24+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-05-26T16:03:42+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
