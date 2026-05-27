@@ -140,3 +140,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-05-24T12:45:42+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-05-26T10:00:00+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-05-27T16:56:41+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
