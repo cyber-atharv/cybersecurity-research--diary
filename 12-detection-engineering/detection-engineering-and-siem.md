@@ -140,3 +140,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-05-24T13:19:59+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-05-26T11:07:17+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-05-27T17:35:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
