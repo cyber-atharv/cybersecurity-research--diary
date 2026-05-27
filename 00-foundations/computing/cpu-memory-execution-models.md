@@ -142,3 +142,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-05-24T14:14:33+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-05-26T13:08:51+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-05-27T18:40:32+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
