@@ -140,3 +140,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-05-24T10:55:34+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-05-25T12:31:17+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-05-27T14:59:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
