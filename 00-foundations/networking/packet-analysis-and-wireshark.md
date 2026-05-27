@@ -142,3 +142,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-05-24T15:09:07+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-05-26T15:09:25+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-05-27T19:45:06+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
