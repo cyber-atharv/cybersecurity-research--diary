@@ -142,3 +142,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-05-24T18:15:06+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-05-27T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-05-29T19:08:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
