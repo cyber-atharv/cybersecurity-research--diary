@@ -142,3 +142,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-05-24T17:41:49+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-05-26T21:12:07+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-05-29T16:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
