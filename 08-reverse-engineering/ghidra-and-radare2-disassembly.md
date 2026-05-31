@@ -142,3 +142,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-05-25T12:31:17+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-05-27T14:59:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-05-31T20:44:16+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
