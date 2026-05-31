@@ -142,3 +142,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-05-24T19:31:57+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-05-27T11:44:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-05-31T12:41:34+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
