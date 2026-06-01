@@ -142,3 +142,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-05-26T11:07:17+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-05-27T17:35:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-06-01T14:02:08+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
