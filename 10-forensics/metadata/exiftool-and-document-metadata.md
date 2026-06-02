@@ -144,3 +144,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-05-27T13:54:59+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-05-31T18:03:42+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-06-02T18:35:50+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
