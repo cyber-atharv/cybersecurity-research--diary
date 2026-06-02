@@ -144,3 +144,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-05-26T20:05:50+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-05-29T13:07:17+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-06-02T10:58:17+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
