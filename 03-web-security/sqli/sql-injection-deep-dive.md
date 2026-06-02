@@ -144,3 +144,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-05-27T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-05-29T19:08:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-06-02T12:41:51+05:30 | TCP State Machine & Half-Open SYN Probing -->
