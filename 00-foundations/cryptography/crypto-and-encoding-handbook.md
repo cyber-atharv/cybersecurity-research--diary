@@ -146,3 +146,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-05-27T21:16:57+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-06-01T21:12:07+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-06-04T13:45:50+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
