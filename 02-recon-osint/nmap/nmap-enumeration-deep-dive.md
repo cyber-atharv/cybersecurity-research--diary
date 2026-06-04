@@ -146,3 +146,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-05-29T13:07:17+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-06-02T10:58:17+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-06-04T14:30:24+05:30 | Stream Filtering & PCRE Flag Optimization -->
