@@ -146,3 +146,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-05-27T18:40:32+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-06-01T16:03:42+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-06-04T11:59:25+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
