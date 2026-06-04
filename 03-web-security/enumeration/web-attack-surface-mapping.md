@@ -146,3 +146,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-05-29T16:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-06-02T11:43:34+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-06-04T14:46:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
