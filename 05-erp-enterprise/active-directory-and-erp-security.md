@@ -144,3 +144,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-05-27T16:30:24+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-06-01T12:01:34+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-06-04T10:29:17+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
