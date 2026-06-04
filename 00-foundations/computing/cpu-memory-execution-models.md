@@ -148,3 +148,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-06-01T16:03:42+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-06-04T11:59:25+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-06-04T21:02:30+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
