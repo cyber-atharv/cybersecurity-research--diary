@@ -148,3 +148,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-06-01T17:10:59+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-06-04T12:15:42+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-06-04T21:31:47+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
