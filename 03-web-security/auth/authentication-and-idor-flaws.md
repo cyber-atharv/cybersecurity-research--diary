@@ -148,3 +148,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-06-02T13:26:08+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-06-04T15:31:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-06-05T16:04:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
