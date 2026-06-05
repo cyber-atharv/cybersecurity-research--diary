@@ -148,3 +148,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-06-02T12:41:51+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-06-04T15:15:58+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-06-05T15:25:59+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
