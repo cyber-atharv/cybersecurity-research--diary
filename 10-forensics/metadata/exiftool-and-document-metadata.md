@@ -148,3 +148,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-06-02T18:35:50+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-06-04T17:46:57+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-06-05T20:37:58+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
