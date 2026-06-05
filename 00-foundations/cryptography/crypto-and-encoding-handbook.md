@@ -148,3 +148,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-06-01T21:12:07+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-06-04T13:45:50+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-06-05T12:23:51+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
