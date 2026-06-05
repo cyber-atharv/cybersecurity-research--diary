@@ -148,3 +148,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-06-02T16:52:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-06-04T17:01:23+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-06-05T19:06:24+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
