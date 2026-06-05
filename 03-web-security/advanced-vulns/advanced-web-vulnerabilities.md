@@ -148,3 +148,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-06-02T15:09:42+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-06-04T16:16:49+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-06-05T17:35:50+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
