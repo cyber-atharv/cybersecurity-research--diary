@@ -148,3 +148,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-06-02T11:43:34+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-06-04T14:46:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-06-05T14:33:42+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
