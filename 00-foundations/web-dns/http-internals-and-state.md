@@ -148,3 +148,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-06-01T19:11:33+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-06-04T13:00:16+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-06-05T10:52:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
