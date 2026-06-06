@@ -148,3 +148,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-06-04T10:45:34+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-06-04T20:01:39+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-06-06T14:22:08+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
