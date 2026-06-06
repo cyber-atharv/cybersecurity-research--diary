@@ -148,3 +148,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-06-04T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-06-04T19:16:05+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-06-06T12:11:34+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
