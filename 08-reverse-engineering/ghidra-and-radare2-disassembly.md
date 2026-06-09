@@ -150,3 +150,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-06-04T18:31:31+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-06-06T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-06-09T20:37:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
