@@ -150,3 +150,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-06-04T15:31:15+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-06-05T16:04:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-06-09T14:33:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
