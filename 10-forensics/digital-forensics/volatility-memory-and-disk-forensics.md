@@ -150,3 +150,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-06-04T18:15:14+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-06-05T21:16:15+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-06-09T19:45:41+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
