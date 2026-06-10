@@ -152,3 +152,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-06-05T10:00:00+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-06-06T19:56:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-06-10T17:45:59+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
