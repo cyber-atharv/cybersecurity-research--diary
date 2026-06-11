@@ -152,3 +152,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-06-05T16:04:16+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-06-09T14:33:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-06-11T16:50:08+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
