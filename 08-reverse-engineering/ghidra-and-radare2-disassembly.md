@@ -152,3 +152,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-06-06T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-06-09T20:37:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-06-13T13:29:25+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
