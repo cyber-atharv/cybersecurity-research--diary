@@ -152,3 +152,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-06-05T20:37:58+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-06-09T19:06:24+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-06-13T12:08:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
