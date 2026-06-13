@@ -154,3 +154,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-06-06T19:56:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-06-10T17:45:59+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-06-13T19:27:58+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
