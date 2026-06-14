@@ -154,3 +154,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-06-09T14:33:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-06-11T16:50:08+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-06-14T14:02:08+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
