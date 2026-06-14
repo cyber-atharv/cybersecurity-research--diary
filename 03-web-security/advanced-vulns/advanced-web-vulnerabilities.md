@@ -154,3 +154,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-06-09T16:04:16+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-06-11T20:15:42+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-06-14T16:03:42+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
