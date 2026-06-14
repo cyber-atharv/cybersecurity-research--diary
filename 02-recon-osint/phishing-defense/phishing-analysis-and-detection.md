@@ -154,3 +154,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-06-09T17:35:50+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-06-13T10:47:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-06-14T18:04:16+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
