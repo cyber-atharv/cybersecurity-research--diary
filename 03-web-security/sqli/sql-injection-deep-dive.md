@@ -154,3 +154,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-06-09T13:54:25+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-06-11T15:14:51+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-06-14T13:08:51+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
