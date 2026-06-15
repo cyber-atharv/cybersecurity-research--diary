@@ -154,3 +154,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-06-10T12:11:34+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-06-13T16:11:33+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-06-15T16:02:08+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
