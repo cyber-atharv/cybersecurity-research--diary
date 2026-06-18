@@ -156,3 +156,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-06-11T11:49:17+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-06-14T11:07:17+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-06-18T12:01:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
