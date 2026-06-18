@@ -156,3 +156,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-06-10T20:55:50+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-06-13T21:22:49+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-06-18T10:00:00+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
