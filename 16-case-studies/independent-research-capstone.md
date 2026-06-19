@@ -156,3 +156,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-06-13T17:32:07+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-06-15T19:03:42+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-06-19T13:19:59+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
