@@ -158,3 +158,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-06-14T11:07:17+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-06-18T12:01:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-06-19T16:46:15+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
