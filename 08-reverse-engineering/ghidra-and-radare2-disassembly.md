@@ -156,3 +156,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-06-13T13:29:25+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-06-15T10:00:00+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-06-19T10:34:17+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
