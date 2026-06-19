@@ -158,3 +158,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-06-14T20:05:50+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-06-18T21:12:07+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-06-19T21:00:48+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
