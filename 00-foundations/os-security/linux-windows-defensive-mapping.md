@@ -158,3 +158,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-06-13T20:48:32+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-06-17T19:08:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-06-19T15:30:24+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
