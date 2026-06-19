@@ -156,3 +156,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-06-13T12:42:08+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-06-14T21:12:07+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-06-19T10:00:00+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
