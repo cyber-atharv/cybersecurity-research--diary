@@ -156,3 +156,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-06-13T15:24:16+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-06-15T14:38:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-06-19T11:50:08+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
