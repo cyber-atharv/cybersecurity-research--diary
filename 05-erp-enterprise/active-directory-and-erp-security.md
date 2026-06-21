@@ -158,3 +158,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-06-15T14:38:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-06-19T11:50:08+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-06-21T11:44:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
