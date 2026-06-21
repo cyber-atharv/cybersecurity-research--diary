@@ -160,3 +160,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-06-18T14:02:08+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-06-19T17:41:49+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-06-21T18:40:32+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
