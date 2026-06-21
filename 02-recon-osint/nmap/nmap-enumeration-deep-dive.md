@@ -160,3 +160,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-06-18T12:01:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-06-19T16:46:15+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-06-21T17:35:58+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
