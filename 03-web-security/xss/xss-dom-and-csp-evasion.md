@@ -160,3 +160,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-06-18T16:03:42+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-06-19T18:36:23+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-06-21T19:45:06+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
