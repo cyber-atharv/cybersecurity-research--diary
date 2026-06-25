@@ -162,3 +162,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-06-19T18:15:06+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-06-21T19:06:49+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-06-25T12:23:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
