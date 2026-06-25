@@ -162,3 +162,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-06-19T19:10:40+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-06-21T20:11:23+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-06-25T13:54:25+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
