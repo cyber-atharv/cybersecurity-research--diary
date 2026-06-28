@@ -164,3 +164,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-06-21T15:25:50+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-06-23T16:02:08+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-06-28T10:00:00+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
