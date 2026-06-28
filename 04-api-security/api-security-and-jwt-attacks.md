@@ -164,3 +164,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-06-21T20:50:40+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-06-25T14:33:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-06-28T16:45:50+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
