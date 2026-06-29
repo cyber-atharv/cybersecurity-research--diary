@@ -166,3 +166,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-06-23T11:37:17+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-06-27T14:49:34+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-06-29T12:42:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
