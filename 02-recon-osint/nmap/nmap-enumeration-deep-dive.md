@@ -166,3 +166,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-06-25T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-06-28T12:42:08+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-06-29T17:32:07+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
