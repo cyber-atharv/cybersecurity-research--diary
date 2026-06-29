@@ -166,3 +166,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-06-23T19:03:42+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-06-28T11:21:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-06-29T16:11:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
