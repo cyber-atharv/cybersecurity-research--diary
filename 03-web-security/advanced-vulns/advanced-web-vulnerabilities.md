@@ -166,3 +166,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-06-25T13:54:25+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-06-28T16:11:33+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-06-29T20:48:32+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
