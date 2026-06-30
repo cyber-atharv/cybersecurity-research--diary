@@ -166,3 +166,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-06-25T17:35:50+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-06-28T19:27:58+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-06-30T12:08:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
