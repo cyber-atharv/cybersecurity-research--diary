@@ -168,3 +168,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-06-27T19:38:08+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-06-29T14:03:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-06-30T18:40:41+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
