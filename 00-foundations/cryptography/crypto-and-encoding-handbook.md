@@ -168,3 +168,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-06-28T11:21:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-06-29T16:11:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-06-30T20:48:32+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
