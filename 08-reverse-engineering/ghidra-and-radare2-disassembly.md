@@ -166,3 +166,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-06-25T18:27:07+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-06-28T20:01:15+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-06-30T12:42:08+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
