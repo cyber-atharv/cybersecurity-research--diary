@@ -168,3 +168,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-06-28T17:32:07+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-06-30T10:00:00+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-07-02T12:08:51+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
