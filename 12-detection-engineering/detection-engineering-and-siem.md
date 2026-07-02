@@ -168,3 +168,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-06-29T11:21:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-06-30T16:11:33+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-07-02T18:06:24+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
