@@ -170,3 +170,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-06-30T14:03:42+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-07-02T16:11:33+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-07-09T14:01:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
