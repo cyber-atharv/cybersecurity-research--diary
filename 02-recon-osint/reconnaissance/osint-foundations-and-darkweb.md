@@ -172,3 +172,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-06-30T21:22:49+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-07-04T11:43:34+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-07-10T17:10:59+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
