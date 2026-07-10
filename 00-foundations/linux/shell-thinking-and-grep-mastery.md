@@ -172,3 +172,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-06-30T18:06:24+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-07-02T20:01:15+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-07-10T12:01:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
