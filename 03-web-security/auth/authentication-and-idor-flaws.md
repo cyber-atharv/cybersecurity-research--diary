@@ -172,3 +172,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-07-01T19:08:51+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-07-04T15:09:42+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-07-10T21:12:07+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
