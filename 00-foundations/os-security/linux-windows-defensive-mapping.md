@@ -172,3 +172,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-06-30T20:01:15+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-07-04T10:00:00+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-07-10T15:09:25+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
