@@ -172,3 +172,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-07-01T13:07:17+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-07-04T13:26:08+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-07-10T19:11:33+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
