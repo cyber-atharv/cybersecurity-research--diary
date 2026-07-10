@@ -172,3 +172,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-06-30T18:40:41+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-07-02T20:48:32+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-07-10T13:08:51+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
