@@ -172,3 +172,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-06-30T20:48:32+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-07-04T10:58:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-07-10T16:03:42+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
