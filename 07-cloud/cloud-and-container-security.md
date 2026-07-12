@@ -174,3 +174,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-07-09T18:02:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-07-12T12:15:42+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-07-12T21:31:47+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
