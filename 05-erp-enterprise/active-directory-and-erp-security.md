@@ -172,3 +172,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-07-02T16:45:50+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-07-09T16:08:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-07-12T11:59:25+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
