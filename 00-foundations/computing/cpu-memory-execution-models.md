@@ -174,3 +174,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-07-02T19:27:58+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-07-10T11:07:17+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-07-12T13:29:33+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
