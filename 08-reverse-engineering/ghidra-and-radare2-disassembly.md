@@ -174,3 +174,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-07-09T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-07-12T10:45:34+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-07-12T20:01:39+05:30 | TCP State Machine & Half-Open SYN Probing -->
