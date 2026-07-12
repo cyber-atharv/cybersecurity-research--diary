@@ -174,3 +174,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-07-09T14:01:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-07-12T11:30:08+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-07-12T20:46:13+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
