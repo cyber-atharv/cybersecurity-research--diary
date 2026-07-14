@@ -176,3 +176,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-07-10T12:01:34+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-07-12T13:45:50+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-07-14T16:08:51+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
