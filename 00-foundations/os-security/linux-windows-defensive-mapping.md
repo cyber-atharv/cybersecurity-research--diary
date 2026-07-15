@@ -176,3 +176,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-07-10T15:09:25+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-07-12T14:46:41+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-07-15T10:00:00+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
