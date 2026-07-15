@@ -176,3 +176,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-07-10T18:04:16+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-07-12T16:00:32+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-07-15T11:29:51+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
