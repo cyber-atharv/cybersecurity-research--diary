@@ -176,3 +176,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-07-10T19:11:33+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-07-12T16:16:49+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-07-15T11:50:08+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
