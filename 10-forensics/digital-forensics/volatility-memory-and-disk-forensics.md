@@ -176,3 +176,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-07-12T10:29:17+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-07-12T19:32:22+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-07-15T15:51:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
