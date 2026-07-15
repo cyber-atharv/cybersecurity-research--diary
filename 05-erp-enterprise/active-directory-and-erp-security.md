@@ -176,3 +176,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-07-12T11:59:25+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-07-12T21:02:30+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-07-15T17:41:49+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
