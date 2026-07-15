@@ -178,3 +178,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-07-12T13:29:33+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-07-14T14:01:34+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-07-15T19:31:57+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
