@@ -178,3 +178,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-07-12T17:01:23+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-07-15T12:45:42+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-07-17T18:39:25+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
