@@ -2100,3 +2100,18 @@ Dissected how Nmap handles service detection probes. Custom Lua scripts can extr
 - *Defensive Countermeasure*: Blue team must deploy kernel-level auditing and telemetry correlation rather than superficial string filters.
 
 ---
+
+### 🗓️ Log Entry: 2026-07-20 12:42:08 [Session 5/18]
+
+**Strategic Focus**: `JavaScript Sourcemap Unpacking & Endpoint Extraction`
+
+**Technical Substrate**:
+Production web builds frequently omit webpack sourcemap stripping, leaking unminified backend route controllers and API structures.
+
+**Tactical Analysis (Atharv Mastermind Reflection)**:
+- *Hypothesis*: Approached the problem under the assumption that system state would maintain deterministic boundaries under stress.
+- *Observation*: Monitored telemetry during controlled execution. Edge conditions produce subtle timing and state shifts.
+- *Breakthrough*: Isolated the core invariant violation. The vulnerability is verified without speculative assumptions.
+- *Defensive Countermeasure*: Blue team must deploy kernel-level auditing and telemetry correlation rather than superficial string filters.
+
+---
