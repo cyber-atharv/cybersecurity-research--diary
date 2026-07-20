@@ -180,3 +180,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-07-15T10:34:17+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-07-17T10:00:00+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-07-20T18:06:24+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
