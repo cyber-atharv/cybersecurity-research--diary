@@ -180,3 +180,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-07-14T16:08:51+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-07-15T20:05:14+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-07-20T15:24:16+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
