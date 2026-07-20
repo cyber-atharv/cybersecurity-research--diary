@@ -178,3 +178,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-07-14T12:07:17+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-07-15T19:10:40+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-07-20T14:03:42+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
