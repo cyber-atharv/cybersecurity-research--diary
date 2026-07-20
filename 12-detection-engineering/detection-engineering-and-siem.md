@@ -178,3 +178,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-07-14T10:00:00+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-07-15T18:36:23+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-07-20T13:29:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
