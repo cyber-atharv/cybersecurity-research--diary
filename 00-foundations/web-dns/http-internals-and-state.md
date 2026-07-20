@@ -180,3 +180,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-07-14T20:09:25+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-07-15T21:00:48+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-07-20T16:45:50+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
