@@ -180,3 +180,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-07-15T14:35:50+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-07-19T14:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-07-22T19:08:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
