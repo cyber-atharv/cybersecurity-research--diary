@@ -180,3 +180,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-07-15T14:14:33+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-07-19T12:07:17+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-07-22T16:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
