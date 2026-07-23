@@ -180,3 +180,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-07-15T15:51:41+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-07-19T20:09:25+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-07-23T11:05:34+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
