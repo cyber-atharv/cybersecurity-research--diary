@@ -182,3 +182,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-07-15T21:21:05+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-07-20T17:32:07+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-07-23T17:35:58+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
