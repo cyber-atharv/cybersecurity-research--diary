@@ -182,3 +182,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-07-17T13:25:34+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-07-20T19:27:58+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-07-23T19:06:49+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
