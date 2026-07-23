@@ -182,3 +182,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-07-17T11:49:17+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-07-20T18:40:41+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-07-23T18:40:32+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
