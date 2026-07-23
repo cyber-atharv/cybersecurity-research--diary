@@ -182,3 +182,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-07-17T16:50:08+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-07-20T20:48:32+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-07-23T20:11:23+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
