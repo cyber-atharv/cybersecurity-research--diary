@@ -184,3 +184,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-07-20T16:45:50+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-07-23T16:56:41+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-07-24T20:48:32+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
