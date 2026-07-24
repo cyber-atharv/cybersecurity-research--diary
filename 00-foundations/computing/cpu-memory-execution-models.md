@@ -184,3 +184,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-07-20T14:50:59+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-07-23T15:25:50+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-07-24T18:40:41+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
