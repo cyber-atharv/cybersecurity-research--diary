@@ -184,3 +184,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-07-20T16:11:33+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-07-23T16:30:24+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-07-24T20:01:15+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
