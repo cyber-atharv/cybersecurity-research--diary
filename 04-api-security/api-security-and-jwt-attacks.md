@@ -182,3 +182,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-07-19T12:07:17+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-07-22T16:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-07-24T10:47:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
