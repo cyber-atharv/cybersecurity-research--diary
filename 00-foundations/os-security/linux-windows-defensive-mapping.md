@@ -184,3 +184,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-07-20T17:32:07+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-07-23T17:35:58+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-07-24T21:22:49+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
