@@ -182,3 +182,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-07-19T14:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-07-22T19:08:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-07-24T11:21:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
