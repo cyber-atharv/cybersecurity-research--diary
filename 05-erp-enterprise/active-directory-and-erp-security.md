@@ -184,3 +184,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-07-23T13:15:42+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-07-24T16:11:33+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-07-25T17:20:32+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
