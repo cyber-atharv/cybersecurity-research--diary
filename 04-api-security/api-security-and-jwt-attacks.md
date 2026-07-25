@@ -184,3 +184,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-07-22T16:01:34+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-07-24T10:47:17+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-07-25T13:40:16+05:30 | TCP State Machine & Half-Open SYN Probing -->
