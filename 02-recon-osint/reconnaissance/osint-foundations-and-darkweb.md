@@ -186,3 +186,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-07-23T18:40:32+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-07-25T10:34:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-07-27T10:00:00+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
