@@ -186,3 +186,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-07-24T14:03:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-07-25T15:51:41+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-07-27T18:06:24+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
