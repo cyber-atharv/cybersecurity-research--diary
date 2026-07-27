@@ -186,3 +186,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-07-24T16:45:50+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-07-25T17:41:49+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-07-27T20:48:32+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
