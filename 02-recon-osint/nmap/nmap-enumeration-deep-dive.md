@@ -186,3 +186,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-07-23T19:06:49+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-07-25T10:55:34+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-07-27T10:47:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
