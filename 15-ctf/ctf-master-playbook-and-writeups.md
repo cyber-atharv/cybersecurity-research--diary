@@ -186,3 +186,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-07-24T15:24:16+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-07-25T16:46:15+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-07-27T19:27:58+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
