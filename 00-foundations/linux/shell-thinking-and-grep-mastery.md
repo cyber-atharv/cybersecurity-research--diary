@@ -188,3 +188,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-07-24T19:27:58+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-07-25T19:31:57+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-07-28T13:01:34+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
