@@ -186,3 +186,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-07-24T18:06:24+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-07-25T18:36:23+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-07-28T10:00:00+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
