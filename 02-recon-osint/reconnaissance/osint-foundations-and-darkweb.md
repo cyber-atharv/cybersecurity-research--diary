@@ -188,3 +188,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-07-25T10:34:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-07-27T10:00:00+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-07-28T20:40:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
