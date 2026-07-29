@@ -188,3 +188,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-07-25T14:14:33+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-07-27T15:24:16+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-07-29T13:19:59+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
