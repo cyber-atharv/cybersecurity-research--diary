@@ -188,3 +188,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-07-25T18:36:23+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-07-28T10:00:00+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-07-29T17:41:49+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
