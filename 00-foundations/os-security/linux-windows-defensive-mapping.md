@@ -190,3 +190,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-07-25T21:00:48+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-07-28T17:39:25+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-07-29T20:05:14+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
