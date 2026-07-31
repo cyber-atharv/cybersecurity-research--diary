@@ -190,3 +190,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-07-27T14:50:59+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-07-29T12:45:42+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-07-31T16:49:25+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
