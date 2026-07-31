@@ -190,3 +190,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-07-27T13:29:25+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-07-29T11:50:08+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-07-31T14:08:51+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
