@@ -190,3 +190,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-07-27T15:24:16+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-07-29T13:19:59+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-07-31T18:03:42+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
