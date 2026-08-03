@@ -190,3 +190,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-07-27T20:48:32+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-07-29T16:46:15+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-08-03T16:49:25+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
