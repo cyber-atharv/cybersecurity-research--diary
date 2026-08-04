@@ -192,3 +192,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-07-28T14:38:51+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-07-29T19:10:40+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-08-04T10:34:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
