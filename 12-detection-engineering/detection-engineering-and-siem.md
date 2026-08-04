@@ -192,3 +192,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-07-29T17:20:32+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-08-03T18:03:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-08-04T20:05:14+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
