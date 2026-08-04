@@ -192,3 +192,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-07-29T10:34:17+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-07-31T10:00:00+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-08-04T13:19:59+05:30 | Stream Filtering & PCRE Flag Optimization -->
