@@ -192,3 +192,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-07-29T11:29:51+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-07-31T12:41:34+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-08-04T14:14:33+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
