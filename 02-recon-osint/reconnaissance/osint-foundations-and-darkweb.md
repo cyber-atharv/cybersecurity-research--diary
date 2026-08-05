@@ -194,3 +194,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-07-29T21:00:48+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-08-04T12:24:25+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-08-05T12:42:08+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
