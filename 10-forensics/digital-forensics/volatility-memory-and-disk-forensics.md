@@ -194,3 +194,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-08-03T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-08-04T17:20:32+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-08-05T20:01:15+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
