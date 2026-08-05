@@ -194,3 +194,5 @@ SSRF to cloud metadata (IMDSv2), XXE entity exfiltration, SSTI sandbox escapes, 
 <!-- Node: 2026-07-31T15:22:08+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-08-04T15:09:07+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-08-05T16:45:50+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
