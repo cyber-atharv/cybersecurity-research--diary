@@ -194,3 +194,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-08-03T19:30:59+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-08-04T20:26:31+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-08-07T19:38:08+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
