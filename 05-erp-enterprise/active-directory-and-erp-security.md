@@ -194,3 +194,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-08-03T15:22:08+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
 
 <!-- Node: 2026-08-04T19:10:40+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
+
+<!-- Node: 2026-08-07T12:31:17+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
