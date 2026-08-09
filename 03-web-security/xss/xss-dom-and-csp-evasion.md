@@ -196,3 +196,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-08-04T14:35:50+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-08-05T16:11:33+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-08-09T15:09:07+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
