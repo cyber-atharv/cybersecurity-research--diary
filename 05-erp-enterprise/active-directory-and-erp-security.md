@@ -196,3 +196,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-08-04T19:10:40+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-08-07T12:31:17+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-08-09T19:31:57+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
