@@ -196,3 +196,5 @@ Ghidra decompilation, Radare2 visual mode, x86/x64 calling conventions, and stac
 <!-- Node: 2026-08-04T17:41:49+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-08-05T20:48:32+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-08-09T18:15:06+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
