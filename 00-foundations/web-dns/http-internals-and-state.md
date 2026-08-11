@@ -198,3 +198,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-08-05T10:47:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-08-09T11:29:51+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-08-11T16:01:34+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
