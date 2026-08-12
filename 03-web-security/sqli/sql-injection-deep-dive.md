@@ -198,3 +198,5 @@ UNION extraction, error-based vectors, blind boolean/time delays, WAF evasion, a
 <!-- Node: 2026-08-05T14:50:59+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-08-09T14:14:33+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-08-12T16:02:08+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
