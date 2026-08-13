@@ -198,3 +198,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-08-07T10:00:00+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
 
 <!-- Node: 2026-08-09T19:10:40+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
+
+<!-- Node: 2026-08-13T14:50:59+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
