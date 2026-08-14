@@ -200,3 +200,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-08-09T15:09:07+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-08-12T19:03:42+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-08-14T13:29:25+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
