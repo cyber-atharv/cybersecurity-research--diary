@@ -200,3 +200,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-08-09T16:25:58+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
 
 <!-- Node: 2026-08-13T10:47:17+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
+
+<!-- Node: 2026-08-14T15:24:16+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
