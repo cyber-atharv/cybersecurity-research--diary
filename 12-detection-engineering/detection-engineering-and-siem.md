@@ -200,3 +200,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-08-09T20:26:31+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
 
 <!-- Node: 2026-08-13T16:45:50+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
+
+<!-- Node: 2026-08-14T21:22:49+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
