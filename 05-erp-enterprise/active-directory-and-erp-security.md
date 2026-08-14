@@ -200,3 +200,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-08-09T19:31:57+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-08-13T15:24:16+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-08-14T20:01:15+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
