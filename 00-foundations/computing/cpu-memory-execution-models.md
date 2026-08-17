@@ -202,3 +202,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-08-09T21:21:05+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-08-13T18:06:24+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-08-17T11:49:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
