@@ -202,3 +202,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-08-11T16:01:34+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-08-13T20:01:15+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-08-17T16:50:08+05:30 | Stream Filtering & PCRE Flag Optimization -->
