@@ -202,3 +202,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-08-12T14:38:51+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-08-14T11:21:34+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-08-19T14:49:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
