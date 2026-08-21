@@ -202,3 +202,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-08-12T19:03:42+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-08-14T13:29:25+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-08-21T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
