@@ -202,3 +202,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-08-13T12:08:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-08-14T16:45:50+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-08-21T20:09:25+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
