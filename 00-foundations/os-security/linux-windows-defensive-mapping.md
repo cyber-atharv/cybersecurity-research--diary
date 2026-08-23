@@ -204,3 +204,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-08-13T20:48:32+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-08-17T18:39:25+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-08-23T20:18:24+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
