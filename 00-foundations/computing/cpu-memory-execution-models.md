@@ -204,3 +204,5 @@ CPU architecture, memory paging, user vs kernel ring transitions, and fault inje
 <!-- Node: 2026-08-13T18:06:24+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
 
 <!-- Node: 2026-08-17T11:49:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
+
+<!-- Node: 2026-08-23T16:52:16+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
