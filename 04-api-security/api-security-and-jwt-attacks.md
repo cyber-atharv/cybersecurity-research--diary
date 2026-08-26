@@ -204,3 +204,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-08-14T14:50:59+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
 
 <!-- Node: 2026-08-21T14:01:34+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
+
+<!-- Node: 2026-08-26T13:23:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
