@@ -204,3 +204,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-08-14T13:29:25+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
 
 <!-- Node: 2026-08-21T10:00:00+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
+
+<!-- Node: 2026-08-26T11:12:17+05:30 | Horizontal vs Vertical IDOR Access Control Matrix -->
