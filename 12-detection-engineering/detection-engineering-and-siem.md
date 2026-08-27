@@ -204,3 +204,5 @@ Sigma rule authoring, Splunk SPL correlation, Sysmon Event ID 1/3 tracing, and i
 <!-- Node: 2026-08-14T21:22:49+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-08-23T15:09:42+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-08-27T13:25:34+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
