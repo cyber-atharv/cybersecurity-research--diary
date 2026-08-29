@@ -206,3 +206,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-08-19T14:49:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-08-24T16:01:34+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-08-29T13:29:25+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
