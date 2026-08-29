@@ -206,3 +206,5 @@ Encoding vs Hashing vs Encryption, AES padding oracles, RSA low-exponent attacks
 <!-- Node: 2026-08-17T20:15:42+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
 
 <!-- Node: 2026-08-23T21:03:41+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
+
+<!-- Node: 2026-08-29T11:21:34+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
