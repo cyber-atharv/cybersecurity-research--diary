@@ -208,3 +208,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-08-23T18:35:50+05:30 | Stream Filtering & PCRE Flag Optimization -->
 
 <!-- Node: 2026-08-27T20:15:42+05:30 | TCP State Machine & Half-Open SYN Probing -->
+
+<!-- Node: 2026-08-31T16:03:42+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
