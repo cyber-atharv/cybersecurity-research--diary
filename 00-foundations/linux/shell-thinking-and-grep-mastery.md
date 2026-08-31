@@ -208,3 +208,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-08-23T17:50:33+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-08-27T18:39:25+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-08-31T15:09:25+05:30 | TCP State Machine & Half-Open SYN Probing -->
