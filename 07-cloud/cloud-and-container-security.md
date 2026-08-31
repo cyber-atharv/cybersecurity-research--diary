@@ -206,3 +206,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-08-23T14:24:25+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-08-27T11:49:17+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-08-31T11:07:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
