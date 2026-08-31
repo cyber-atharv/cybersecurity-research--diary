@@ -208,3 +208,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-08-23T19:33:07+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-08-29T10:00:00+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-08-31T17:10:59+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
