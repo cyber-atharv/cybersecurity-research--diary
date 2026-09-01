@@ -208,3 +208,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-08-26T16:33:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-08-29T18:40:41+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-09-01T14:20:16+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
