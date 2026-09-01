@@ -15,3 +15,18 @@ Constructed dynamic UNION SELECT payloads to enumerate information_schema across
 - *Defensive Countermeasure*: Blue team must deploy kernel-level auditing and telemetry correlation rather than superficial string filters.
 
 ---
+
+### 🗓️ Log Entry: 2026-09-01 10:39:17 [Session 2/22]
+
+**Strategic Focus**: `Horizontal vs Vertical IDOR Access Control Matrix`
+
+**Technical Substrate**:
+Tested tenant isolation across REST endpoints. Verified that numeric parameter swapping bypasses UI-level authorization when server validation is absent.
+
+**Tactical Analysis (Atharv Mastermind Reflection)**:
+- *Hypothesis*: Approached the problem under the assumption that system state would maintain deterministic boundaries under stress.
+- *Observation*: Monitored telemetry during controlled execution. Edge conditions produce subtle timing and state shifts.
+- *Breakthrough*: Isolated the core invariant violation. The vulnerability is verified without speculative assumptions.
+- *Defensive Countermeasure*: Blue team must deploy kernel-level auditing and telemetry correlation rather than superficial string filters.
+
+---
