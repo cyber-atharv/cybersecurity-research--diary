@@ -210,3 +210,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-08-29T12:42:08+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-08-31T21:12:07+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-09-05T13:25:34+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
