@@ -210,3 +210,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-08-31T11:07:17+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
 
 <!-- Node: 2026-09-01T17:35:58+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
+
+<!-- Node: 2026-09-09T20:09:25+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
