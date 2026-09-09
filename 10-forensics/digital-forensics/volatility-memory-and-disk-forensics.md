@@ -210,3 +210,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-08-29T19:27:58+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
 
 <!-- Node: 2026-09-01T14:59:33+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
+
+<!-- Node: 2026-09-09T10:00:00+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
