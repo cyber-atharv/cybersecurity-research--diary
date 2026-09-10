@@ -212,3 +212,5 @@ Passive intelligence, Certificate Transparency logs (crt.sh), Google Dorking, an
 <!-- Node: 2026-08-31T20:05:50+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-09-05T11:49:17+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-09-10T20:44:16+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
