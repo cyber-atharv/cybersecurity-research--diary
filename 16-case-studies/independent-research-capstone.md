@@ -210,3 +210,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-08-31T13:08:51+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-09-01T18:40:32+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-09-10T11:27:17+05:30 | TCP State Machine & Half-Open SYN Probing -->
