@@ -212,3 +212,5 @@ Session fixation, MFA logic flaws, IDOR matrix testing, and horizontal/vertical 
 <!-- Node: 2026-09-01T11:05:34+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-09-05T18:39:25+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-09-11T14:38:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
