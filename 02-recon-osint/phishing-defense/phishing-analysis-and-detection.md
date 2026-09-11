@@ -212,3 +212,5 @@ SPF/DKIM/DMARC email headers, homograph domain attacks, reverse proxy phishing, 
 <!-- Node: 2026-09-01T13:15:42+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-09-06T14:49:34+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-09-11T20:40:59+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
