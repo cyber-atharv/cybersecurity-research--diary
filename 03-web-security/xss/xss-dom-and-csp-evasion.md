@@ -212,3 +212,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-09-01T11:44:51+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
 
 <!-- Node: 2026-09-05T20:15:42+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
+
+<!-- Node: 2026-09-11T16:02:08+05:30 | SPF, DKIM, and DMARC Header Authentication Analysis -->
