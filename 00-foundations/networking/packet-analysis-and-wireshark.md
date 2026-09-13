@@ -214,3 +214,5 @@ TCP/IP state machine, 3-way handshakes, Wireshark/tshark packet dissection, and 
 <!-- Node: 2026-09-01T20:11:23+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
 
 <!-- Node: 2026-09-10T15:22:08+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
+
+<!-- Node: 2026-09-13T19:06:24+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
