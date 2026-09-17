@@ -214,3 +214,5 @@ AWS IAM privilege escalation, Docker socket escapes, Kubernetes RBAC token theft
 <!-- Node: 2026-09-09T20:09:25+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-09-13T15:25:59+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-09-17T20:18:24+05:30 | TCP State Machine & Half-Open SYN Probing -->
