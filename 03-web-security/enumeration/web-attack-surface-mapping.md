@@ -216,3 +216,5 @@ Virtual host routing, content discovery, JavaScript sourcemap unpacking, and par
 <!-- Node: 2026-09-11T11:37:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-09-16T16:01:34+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-09-18T17:50:33+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
