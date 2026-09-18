@@ -216,3 +216,5 @@ Linux POSIX capabilities, SUID, Windows access tokens, Registry run keys, and au
 <!-- Node: 2026-09-10T18:03:42+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-09-13T20:37:58+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-09-18T14:24:25+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
