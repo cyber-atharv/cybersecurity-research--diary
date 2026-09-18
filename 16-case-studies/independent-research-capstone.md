@@ -214,3 +214,5 @@ Full-spectrum zero-knowledge threat assessment, hypothesis-driven validation, ev
 <!-- Node: 2026-09-10T11:27:17+05:30 | TCP State Machine & Half-Open SYN Probing -->
 
 <!-- Node: 2026-09-13T16:56:33+05:30 | HTTP Header Injection & CRLF Smuggling Dynamics -->
+
+<!-- Node: 2026-09-18T10:00:00+05:30 | POSIX Capabilities vs SUID Binary Exploitation -->
