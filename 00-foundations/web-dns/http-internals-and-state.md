@@ -216,3 +216,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-09-10T16:49:25+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
 
 <!-- Node: 2026-09-13T19:45:41+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
+
+<!-- Node: 2026-09-18T13:26:08+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
