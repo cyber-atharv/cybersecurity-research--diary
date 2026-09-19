@@ -216,3 +216,5 @@ ExifTool inspection, PDF stream analysis, embedded GPS/author data extraction, a
 <!-- Node: 2026-09-13T10:52:17+05:30 | ROP Chain Construction & Ret2libc Exploitation -->
 
 <!-- Node: 2026-09-17T15:09:42+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
+
+<!-- Node: 2026-09-19T17:20:51+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
