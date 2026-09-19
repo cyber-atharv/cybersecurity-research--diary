@@ -216,3 +216,5 @@ Volatility 3 kernel memory inspection, VAD tree analysis, NTFS $MFT parsing, and
 <!-- Node: 2026-09-13T11:31:34+05:30 | Kerberoasting SPNs & Offline TGS Ticket Cracking -->
 
 <!-- Node: 2026-09-17T16:07:59+05:30 | Container Breakout: Mounted docker.sock & Privileged Escapes -->
+
+<!-- Node: 2026-09-19T19:38:08+05:30 | Detection Engineering: Crafting Sigma Rules for EDR Telemetry -->
