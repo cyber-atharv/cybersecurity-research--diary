@@ -216,3 +216,5 @@ REST BOLA, GraphQL introspection/batching, JWT 'none' and key confusion attacks,
 <!-- Node: 2026-09-11T19:03:42+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
 
 <!-- Node: 2026-09-17T12:41:51+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
+
+<!-- Node: 2026-09-19T10:00:00+05:30 | Ghidra Decompilation & Control Flow Graph Reconstruction -->
