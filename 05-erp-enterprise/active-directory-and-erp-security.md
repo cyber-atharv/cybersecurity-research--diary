@@ -216,3 +216,5 @@ Kerberoasting SPNs, AS-REP roasting, DCSync replication rights, and ERP segregat
 <!-- Node: 2026-09-13T14:33:42+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
 
 <!-- Node: 2026-09-17T19:33:07+05:30 | Stream Filtering & PCRE Flag Optimization -->
+
+<!-- Node: 2026-09-21T13:23:51+05:30 | TCP State Machine & Half-Open SYN Probing -->
