@@ -218,3 +218,5 @@ Grep regex optimization, stream processing with awk/sed, process signals, and sh
 <!-- Node: 2026-09-13T18:27:07+05:30 | RSA Low Public Exponent & Coppersmith Attack Vectors -->
 
 <!-- Node: 2026-09-18T11:43:34+05:30 | Certificate Transparency Logs for Subdomain Enumeration -->
+
+<!-- Node: 2026-09-21T18:44:16+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
