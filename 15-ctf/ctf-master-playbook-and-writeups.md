@@ -216,3 +216,5 @@ PicoCTF, HackTheBox, TryHackMe writeups featuring hypothesis logs, failure analy
 <!-- Node: 2026-09-13T13:54:25+05:30 | Independent Threat Assessment & Zero-Knowledge Architecture Triage -->
 
 <!-- Node: 2026-09-17T18:35:50+05:30 | Memory Paging & Page Table Walk analysis under Ring 0 -->
+
+<!-- Node: 2026-09-21T12:11:34+05:30 | Stream Filtering & PCRE Flag Optimization -->
