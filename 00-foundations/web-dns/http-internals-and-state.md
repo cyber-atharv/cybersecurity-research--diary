@@ -218,3 +218,5 @@ HTTP/1.1-2-3 protocols, header injection, state management, cookies, SOP and COR
 <!-- Node: 2026-09-13T19:45:41+05:30 | Nmap Scripting Engine (NSE) Lua Engine Deconstruction -->
 
 <!-- Node: 2026-09-18T13:26:08+05:30 | JavaScript Sourcemap Unpacking & Endpoint Extraction -->
+
+<!-- Node: 2026-09-21T20:55:50+05:30 | UNION-based SQLi Column Alignment & Schema Dumping -->
