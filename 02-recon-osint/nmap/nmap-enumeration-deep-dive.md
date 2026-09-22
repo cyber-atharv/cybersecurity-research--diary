@@ -218,3 +218,5 @@ TCP SYN vs Connect scans, OS fingerprinting, version detection engines, and cust
 <!-- Node: 2026-09-16T13:07:17+05:30 | DOM-based XSS: Analysis of Dangerous JavaScript Sinks -->
 
 <!-- Node: 2026-09-18T16:52:16+05:30 | SSRF to AWS IMDSv2 vs GCP Metadata Token Exfiltration -->
+
+<!-- Node: 2026-09-22T14:38:51+05:30 | GraphQL Query Batching & Introspection Schema Extraction -->
