@@ -218,3 +218,5 @@ Reflected/Stored/DOM XSS, context sinks, CSP bypasses, DOMPurify, and trusted ty
 <!-- Node: 2026-09-17T10:58:17+05:30 | PE File Header Forensics: Import Tables & Entropy Analysis -->
 
 <!-- Node: 2026-09-18T20:18:24+05:30 | ExifTool Deep Inspection: Forensic Provenance in Images -->
+
+<!-- Node: 2026-09-22T20:40:59+05:30 | Volatility 3 Kernel Memory Dump & VAD Tree Inspection -->
